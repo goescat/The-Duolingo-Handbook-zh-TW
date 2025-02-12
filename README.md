@@ -3,7 +3,10 @@ The Duolingo Handbook 正體中文翻譯
 
 這是個人興趣所做的翻譯，所有版權都是 Duolingo 所有。
 
-## The Duolingo Handbook 
+## The Duolingo Handbook
+
+<img src="https://github.com/goescat/The-Duolingo-Handbook-zh-TW/blob/main/image/The_Duolingo_Handbook-01.png" width="400">
+
 官方連結：
 https://blog.duolingo.com/handbook/
 
@@ -43,16 +46,16 @@ And welcome to Duolingo.
 — Luis
 
 > Duolingo 是個奇特的地方。
-> 
+>
 > 我們的文化不是從科技新創公司的交戰守則中複製而來，而是由一小群宅宅，在美國賓州匹茲堡，一家運動酒吧樓上的辦公室裡，從零開始打造的。
-> 
+>
 > 對我們早期的大部分員工來說，Duolingo 是他們的第一份真正的工作。由於經驗不多，我們只能不斷嘗試，試著解決最基本的問題：我們應該聘請什麼樣的人？打造一款 app 的最佳方法是什麼？我們應該如何組織團隊來打造它？這樣的做法雖然花了不少時間，但最終，它為我們的文化和成功奠定了無可取代的基礎。
-> 
+>
 > 隨著時間推移，我們逐漸找到了這些問題，和其他更多問題的答案。如今，走過了十四年，我們決定將這些解答整理成書，清楚闡述我們的做事方式。
-> 
+>
 > 這本書的核心是五大原則。它們不是理想的願景——而是我們在實踐中學到的寶貴經驗。但這些原則也不是絕對的：原則間會有一些拉扯，也有些地方，它們不太適用。我們希望你能學習這些原則、挑戰原則，然後幫助我們讓這本書的下個版本變得更好。
-> 
+>
 > 感謝你的閱讀。
 > 歡迎來到 Duolingo。
-> 
+>
 > — Luis
