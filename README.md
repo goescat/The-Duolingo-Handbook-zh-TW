@@ -59,3 +59,62 @@ And welcome to Duolingo.
 > 歡迎來到 Duolingo。
 >
 > — Luis
+
+### TL;DR | 太長了，重點摘要
+
+Take the Long View
+* We’re building a forever product that puts long-term user
+retention first.
+* We hire exceptional people who will grow with Duolingo and
+shape its future for years to come.
+* We’re creating a 100-year brand with delightful, quirky
+characters that become a part of learners’ lives.
+> 放眼長遠
+> * 我們正在打造一個永續的產品，以長期使用者留存為首要目標。
+> * 我們聘請優秀的人才，能與 Duolingo 一同成長，並在未來數年塑造它的發展。
+> * 我們正在建立一個百年品牌，以充滿趣味且獨特的角色，成為學習者生活的一部分。
+
+Raise the Bar
+* Every feature we ship must be intuitive, delightful, useful, and polished.
+* We make sure critical tasks have a clear owner.
+* We constantly dogfood our products to identify bugs and propose improvements.
+* We give candid feedback that focuses on the “what” and not the “who.”
+
+> 樹立標竿
+> * 我們推出的每個功能都必須直覺好用、令人愉悅、實用，且精心打磨。
+> * 我們確保每項關鍵任務都有明確的負責人。
+> * 我們親自使用自家產品，發現錯誤並提出改善方案。
+> * 我們給予坦誠的回饋，對事而不對人。
+
+Ship It
+* We optimize “clock speed,” minimizing gaps between steps to maintain momentum.
+* We run hundreds of experiments each week in order to constantly improve our products and our organization.
+* We ruthlessly prioritize projects with the highest impact and quickly cut what isn’t working.
+* We’ll only introduce a new process if it helps us make faster, better decisions.
+
+快速執行
+* 我們最佳化「時脈」，縮短每個階段間的間隔，以保持動力。
+* 我們每週進行數百個實驗，不斷改進我們的產品與組織。
+* 我們冷酷的以最具影響力的專案為優先，並迅速淘汰無效專案。
+* 我們只會引入能幫助我們更快、更好做出決定的新流程。
+
+Show Don’t Tell
+* We lead with the results of our work, not the story of its effort.
+* Our products don’t have to explain themselves—they should
+be intuitive to everyone.
+* When we disagree, we test ideas and let the metrics decide.
+
+> 多說無益
+> * 我們注重的工作的成果，而非過程有多艱辛。
+> * 我們的產品應該對於任何人都直覺易懂，不需要額外說明。
+> * 當我們意見不合時，我們會測試想法，讓數據來決定。
+
+Make It Fun
+* Our product is built on play, using gamification and design to make learning fun.
+* Our brand is wholesome but unhinged: we lean into what makes our fans laugh, even if not everyone gets the joke.
+* We design our offices and culture to be quirky and welcoming, sparking joy and connection among Duos.
+
+> 讓一切充滿樂趣
+> * 我們的產品建立在遊戲化的基礎上，透過設計讓學習變得有趣。
+> * 我們的品牌是有益但瘋狂的：我們擁抱讓粉絲發笑的元素，即便不是所有人都能懂那個笑點。
+> * 我們的辦公環境與文化充滿趣味與包容性，讓每一位 Duos 都能感受到歡樂與連結。
