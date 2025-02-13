@@ -317,7 +317,6 @@ Our marketing team excels at creating high-impact content at a low cost. Thanks 
 > 
 > 我們的行銷團隊擅長 以低成本創造高影響力 的內容。正因如此，Duo 曾在《芭比》電影首映會紅毯 上現身、在 Peacock 串流平台上推出一檔（惡搞的）戀愛實境秀，甚至成為全球社群媒體的熱門話題。這些時刻展現了 Duolingo 俏皮又不按牌理出牌的品牌個性，也證明了口碑行銷與精準行銷的完美平衡能帶來強大影響力。
 
-
 The Path
 Originally, learners navigated Duolingo through the Tree, which consisted of skills (e.g., going to a restaurant). Each skill began with basic word meanings and progressed to harder content, but learners only needed to complete the first level to move on. While this flexibility let them advance quickly, it often led to frustration when harder concepts came along and exposed gaps in their foundational knowledge.
 In 2022, we took a leap: replacing the Tree with the Path. This new linear structure requires learners to complete every lesson in sequence, ensuring a consistent and strong foundation
@@ -334,3 +333,274 @@ Sometimes taking the long view means making bold moves that might seem counterpr
 > 
 > 有時候，長遠佈局意味著在當下做出看似不利的決策。學習路徑就是一個典型例子——它徹底改變了人們使用 Duolingo 學習的方式，也成為我們成功的重要關鍵之一。
 
+### PRINCIPLE #2 RAISE THE BAR | 原則 #2 樹立標竿
+
+To change how the world learns, we must do world-class work.
+
+> 要改變世界的學習方式，我們就必須做到世界級的水準。
+
+Excellence isn’t some lofty goal—it’s our baseline.
+
+The expectation is that we’ll do the best work of our careers here, constantly pushing our craft and ideas to meet our bar and then exceed it.
+Still, we’re human, and we’re going to make mistakes. When that happens, we don’t chase blame. We dig
+in and figure out what happened. This is how we continuously raise the bar—not by being perfect, but by being a little bit better each day.
+
+> 卓越不是一個崇高的目標——它是我們的基本要求。
+> 
+> 我們的期望是，在這裡我們將做出職業生涯中最出色的作品，不斷推動我們的技藝和創意，不達到標準，更要超越它。
+> 
+> 當然，我們是人，也會犯錯。當錯誤發生時，我們不會推卸責任。我們會深入分析，找出問題所在。這就是我們不斷提升標準的方式——不是一開始就完美，而是每天都進步一點。
+
+Culture of Excellence
+Our bar for quality was set at the top and at the beginning. Luis, Severin, and the early team share a nearly ridiculous attention to detail. (Luis is the rare CEO who still reports every bug he finds in the app.) But it’s no longer just about leadership or
+any individual Duo. As the company has grown, we’ve worked together to define clear standards for excellence and scale them across the organization.
+
+> 卓越文化
+> 
+> 我們對品質的要求從一開始就設立在最高點。Luis、Severin 和早期的團隊對細節有著近乎苛求的關注。（Luis 是那種會回報他在 app 中發現的每一個 bug 的稀有 CEO。）卓越不是僅僅是關乎於領導階層或任何單獨的 Duo，隨著公司成長，我們共同定義了對於卓越的清楚標準，並將標準推行到整個組織。
+
+
+Taking Ownership
+One key to maintaining high standards is assigning ownership. That means putting a person or team on a task, providing a clear mandate and saying, “You are responsible.” We’ve seen it again and again: only things that are owned become excellent.
+As we grow, unclear ownership can become a challenge. One task might stretch across four functions and seven teams, and it’s not clear who owns what. There will always be some projects where defining ownership is tricky, or impossible. But the most important projects at the company should have an owner.
+
+> 責任歸屬
+> 
+> 維持高標準的關鍵之一是明確的責任歸屬。這個意思是，將一個任務明確的授權給一個人或團隊，告訴他們：「這是你的責任。」我們不斷發現，只有那些有明確的歸屬事物，才能達到卓越。
+> 
+> 隨著組織的成長，責任的歸屬會是一項挑戰。一個任務可能需要橫跨四個職位和七個團隊，誰負責什麼部分卻不太清楚。總會有一些專案很難界，甚至無法界定定責任。但公司中最重要的專案，一定要有明確的負責人。
+
+Hard on the Work, Easy on the People
+Our culture is famously warm and friendly. And that’s great! But a warm-and-fuzzy culture can make it hard to have tough conversations. We’ve always been clear when giving feedback on design and product, but we want to be more candid in other areas, too.
+The standard here is “hard on the work, easy on the people.” That means giving constructive, clear feedback that sharpens ideas without undermining relationships. (We stick to the “what,” not the “who.”) It also means being open to receiving feedback and not taking it personally. This candid, constructive approach allows us to hold each other to high standards while fostering trust and collaboration.
+
+> 對工作嚴格，對人寬容
+> 
+> 我們的文化以溫暖和友善聞名，這非常棒！但是，溫暖的文化有時會讓我們在進行嚴肅的對話時感到艱難。我們在給予設計和產品回饋時，一向直截了當，我們希望對於其他部分，也能更加直接。
+> 這裡的標準是「對工作嚴格，對人寬容」，這意味著我們提供有建設性、清楚的回饋來激盪想法，而不會破壞關係。（我們關注的是「事情」，而非「是誰」。）這同時著我們願意接受意見，並且不把意見當作是針對。真誠、具建設性的建議，讓我們能夠在相互信任與合作，與對方一起達到高標準。
+
+（以下尚未翻譯）
+Dogfooding
+Another key way we maintain excellence is by using the app daily. This ensures that we ourselves love the product and that bugs are spotted and resolved quickly. To make this process
+even more effective, we built Shake to Report, a simple tool
+that lets anyone in the company snapshot and report an issue instantly by shaking their device. Over the years, Shake to Report has become a vital part of our development process, making excellence in the app a shared responsibility.
+
+Setting the Bar
+So, where exactly is this excellence bar, and how do we make sure we’re hitting it? Let’s see what this looks like across a few areas of the company.
+The Bar for Product and Design
+In product and design, there are four elements that guide us:
+
+Useful: Learners need to get utility out of whatever we’ve built. Otherwise, we’ve made something that adds more complexity to the app and distracts learners from what they’re here to do.
+
+Intuitive: Learners should be learning, not figuring out how to use the app. Every feature must be easy to use for everyone—it doesn’t matter whether they’re a 75-year- old in India using an Android or a 16-year-old in New York City on an iPhone. If a feature or screen requires explanation or additional context, it’s not right.
+
+Delightful: Every new feature needs to have some amount of fun and delight. We might not need the most elaborate animations in the first iteration of a feature, but there should always be a hint of the magic that learners love.
+Polished: This is what makes a feature feel complete. Tight visual design, perfect copy, and seamless interactions are the baseline. Nothing should feel clunky or inconsistent. For instance, we shouldn’t have both a Back button and an X button that do the same thing.
+
+The Bar for Hiring
+Our people set the bar for everything else we do.
+So, we insist on bringing in exceptional talent— individuals who stand out not just in their skills but in their character. That might mean someone who was at the top of their class, or the first from their family to graduate from college—but also is genuinely kind. To maintain this standard, Luis and Severin still approve every new hire.
+We don’t lower this bar for anyone. For example, we once passed on a senior executive for a role we had been trying to fill for over a year because they weren’t kind. They aced their interviews and had a strong resume but were disrespectful to the driver who picked them up from the airport. That single moment told us what we needed to know. Excellence isn’t just what you do—it’s how you treat others.
+
+V1s Not MVPs
+The idea of shipping unfinished features, or Minimum Viable Products (MVPs), is common across tech. But MVPs come with a specific set of expectations—and limitations.
+At Duolingo, we don’t do MVPs—we do V1s.
+The difference is important: MVPs often have a lower standard of quality and can be used as an excuse to ship subpar work. V1s, on the other hand, are polished. They may not have all the bells and whistles, but they meet our bar. Sometimes this approach takes a little longer, but we refuse to compromise our users’ experience by showing them half-baked ideas.
+
+PRINCIPLE #3 SHIT IT!
+For a good idea to become reality, we need to move with a sense of urgency. So Go, Go, Go!
+
+When Duolingo was starting out, we were all sitting in one room.
+We didn’t have formal Product Reviews, or OKRs, or any of the structure we have today. There was no blueprint because no other learning app was doing what we were trying to do. We were—for better or worse—making things up as we went along.
+We were also fast as hell. And the pace of our experimentation allowed us to quickly figure out what was working, and ditch what wasn’t. This applied across everything: product, hiring, engineering, and our business as a whole. We were testing and learning at warp speed.
+
+It’s still like this even today. We ship new versions of our iOS and Android apps every week. And we’re running hundreds of experiments* across the company at any given time. Duolingo goes nowhere without this principle. “Ship It” keeps us ahead of our competitors; “Ship It” makes Duolingo a fun place to work; “Ship It” ensures that our product never sits still.
+
+Go, Go, Go!
+Duolingo is the sum of thousands of experiments. The faster we can run experiments—successful or not—the faster we can improve the app and advance our mission. Over time, each of these changes builds on one another, creating a cycle of compounding growth.
+Shipping fast also lets us avoid lengthy debates and guesswork about what we should be doing. That’s because testing in
+the real world gives us better information than any internal discussion ever could. So, we move quickly—to start these feedback loops and let real data guide our work.
+
+Clock Speed
+“Clock speed” is a mindset that drives how we work. The concept comes from microprocessor technology, where clock speed measures how quickly a system can process instructions. We use the term to talk about minimizing the gaps between actions: the time between when a decision is made and when it’s implemented, or when feedback is given and changes are made.
+
+Experiments: Experiments are tests to see what works and what doesn’t. A/B tests are a specific type of experiment where we simultaneously run two or more options against one another.
+
+Increasing clock speed helps us reduce idle time and make sure that the most important projects actually get done. We should almost never have to wait a month to see the next iteration of a project. The more we can close these gaps, the faster we ship it, and the faster we can learn and improve. It’s not about rushing—it’s about never letting a break in the chain slow us down.
+
+Ruthless Prioritization
+As much as we want to move fast and increase clock speed, we always need to make sure we’re working
+on the right thing. At Duolingo, prioritization is sometimes described as “ruthless:” we are decisive about what we focus on as a company, based on what will have the largest impact on our learners.
+Deciding what to prioritize starts with clearly defined goals. For every initiative, we ask: How does this contribute to our mission? What measurable outcomes will it drive? And if something doesn’t move the needle in a meaningful way, it’s cut—no matter how much effort has already gone into it. One high-impact win always outweighs a handful of small scattered efforts.
+
+*PR: Product Review. The meeting where we green-light every change to the app. Led by the Product Org, but anyone can listen in!
+
+This mindset extends to our product. We cut features that don’t deliver value, remove unnecessary complexity, and stay laser- focused on our mission. Letting go of what’s not effective is often as powerful as creating something new.
+
+*Shipping the Org
+As teams grow and become more specialized, there’s a risk that our product will mirror the organization’s structure rather than delivering a seamless experience for learners. This
+is called “shipping the org.” For example, the tabs across the app—like Leaderboards and Profile—are managed by different teams, each with distinct goals. Over time, this has led to inconsistencies in their design. To counter this, we always need to consider the holistic experience across the app.
+
+Culture of Experimentation
+“Ship It” isn’t just about speed; it’s about creating
+as many opportunities as possible to learn and improve. We like to play around, run a little wild—and sometimes fail. But each experiment brings us closer to seeing what works.
+99 Bad Ideas
+Some of our best features and campaigns have come from asking ridiculous, unlikely questions. We practice this at leadership offsites during a tradition we call “99 Bad Ideas,” where we brainstorm outrageous concepts—like Duo’s latest hijinks, or changing our stock ticker to LILY.
+But this spirit extends across the organization,
+where we make space for challenging assumptions and asking bold questions. What if you could talk with Duolingo characters? What would Duo do with five seconds at the Super Bowl? What if language certification tests could be taken at home? Over
+the years, these types of questions have helped us consistently uncover new opportunities to delight our learners and advance our mission.
+
+* Navigating Trade-offs
+There’s a natural tension between “Raise the Bar” and “Ship It.” When they clash, our mission is a great guide. The question is: How will this decision improve education and make it more accessible? Often, it means letting go of perfection. Generative AI, for example, lets us create content at a speed and scale we never thought possible. Early versions aren’t perfect, but they deliver value to millions now—and the quality will improve over time.
+
+The Right Amount of Process
+As Duolingo grows, staying agile becomes more challenging. We need guardrails and processes to keep things from spiraling out of control, but we also want to avoid unnecessary red tape. The question is: How can we add the right processes without slowing ourselves down?
+Good processes should reduce workloads, improve quality, and lead to better decisions. One example of this is Product Review (PR). In the early days, Luis often made product decisions
+during informal meetings, which sometimes got messy. Not all stakeholders were included or informed; even worse, it wasn’t always clear if decisions were binding or if Luis was just musing. We needed a better approach.
+Taking inspiration from engineering’s code review process, we introduced a formal structure for Product Review. Today, PR ensures that everyone is clear on what decisions were made, and that all relevant stakeholders are informed. The meeting also includes a rotating group of leaders from Product and Design who weigh in, ensuring diverse perspectives.
+The success of PR has set a precedent for other teams. Marketing, for instance, has adopted a Marketing Review, which brings the same clarity and alignment to their campaigns. These processes help us maintain our quality bar—and make faster and visible decisions across the company.
+
+PRINCIPLE #4 SHOW DON'T TELL
+We use clear, concise communication that is grounded in data and real impact.
+
+“Show Don’t Tell” means we lead with the results of our work, not the story of its effort.
+This approach is different from how most of us were taught. In school or past jobs, we often learned to communicate to persuade—selling ourselves with pitches and stories. While those skills have their place, they’re not how we uncover the truth, solve problems, or build great things.
+
+Numbers Are the Story
+Metrics, when available, should be at the center of all our work and communications. Decisions must be grounded in evidence, not abstract narratives.
+By focusing on actual results—like the effect of a new feature on daily bookings—we can quickly assess whether something belongs in the app. But this spirit extends well beyond the app. For example, we measure how our offices are being used (and not used), so we can make each new space better than the last.
+TL;DR
+One key way we Show Don’t Tell is through TL;DRs—executive summaries at the top of any important communication. We use them in many places, from feature performance analyses and meeting prereads to new policy announcements.
+Crafting strong TL;DRs boosts the chances that your work will be seen and remembered. They make complex information more digestible and, importantly, encourage clearer thinking. To write a TL;DR, you have to distill your message down to its most essential points.
+
+*The Tyranny of Metrics
+Fixating on the numbers can sometimes lead us astray. Metrics are valuable, but in isolation, they paint an incomplete picture. For example, learning outcomes—that is, what a student should know after completing a lesson—are notoriously tricky to measure. In cases like these, we have to trust our intuition and expertise.
+
+Say Less
+Prototypes, Not Pitch Decks
+Talking about ideas is rarely as effective as building them. Prototypes allow us to bring concepts to life, align on a shared vision, and move forward quickly. They’re especially important when dealing with complex challenges like integrating AI into an existing feature.
+Great Products Don’t Have to Explain Themselves
+Our app is designed to be intuitive. Instead of telling learners how to use Duolingo with pop-over messages and lengthy onboarding flows, we let design, animation, and simple prompts do the “showing.” When you open up Duolingo for the first (or hundredth) time, the learning experience should require no instructions. That way, you can actually focus on learning.
+
+And the actual learning is shaped by this principle, too. Research shows that the most effective learning comes through experience, not a long list of instructions. Rather than explaining grammar rules, for example, we demonstrate language patterns through interactive exercises and engaging visuals.
+Ideas Before Egos
+Great ideas don’t need a sales pitch—they need a chance
+to prove themselves. At Duolingo, we prioritize results over opinions. By empowering teams to explore bold concepts and letting metrics guide the way, we ensure that the best ideas rise to the top.
+
+*Celebrating Innovators
+We tend to be team first. But there are select moments when individual work that goes above and beyond must be celebrated. Each year at Duoversary, we pick out a few standout contributors and give them the Duolingo Innovation Award.
+
+Disagree and Commit
+Disagreements are inevitable, but here, we handle them by taking action instead of getting stuck. When two parties disagree, both commit to moving forward with a decision and letting the results speak for themselves. For example, even when someone like Luis has doubts about an idea, they’ll often say, “Go ahead and test it—let’s see what happens.” (This is exactly what occurred with Leaderboards—now a key feature on the app.)
+This mindset extends beyond product. On our social media team, for example, junior team members are trusted to run with bold ideas and measure their impact. By creating space for experimentation, we ensure that outcomes—not opinions—lead the way.
+The Trust Battery
+Building trust is an essential part of this approach.
+At Duolingo, trust isn’t assumed—it’s earned. Through impactful work, everyone powers their Trust Battery. Whether you’re an intern or a new executive, you
+start by demonstrating your value with meaningful contributions. Each contribution charges the
+battery, creating a reserve of trust that strengthens collaboration, decision-making, and accountability over time.
+
+PRINCIPLE #5 MAKE IT FUN!
+We bring a sense of humor, joy, and imagination to everything we do.
+Learning doesn’t have to be boring, and neither does work.
+There’s a palpable sense of humor when you enter the world of Duolingo. This isn’t a culture of poker faces and formalities. It’s a world where gigantic, plush owls star in fake Broadway musicals—on ice. Where any wild idea is on the table, like an April Fools campaign to sell language-learning toilet paper. Where no one is safe from the joke (not even the CEO).
+
+A Product Built on Play
+There are lots of ways to teach a language. But none of them work if learners aren’t engaged.
+From the beginning, we made the decision to gamify the app. Over time, we’ve expanded this by introducing more and more engagement mechanics that keep learners coming back to further their progress. But these tactics aren’t the only thing that sets us apart.
+Duolingo feels like an entirely different universe from traditional education tools. Strange, unexpected things happen here. Lessons are formatted like talk shows and video games; sentences like “Your bear is drinking beer” verge on the absurd, and the character Lily sarcastically supports your progress with a slow clap. These moments of delight—characters, animations, absurd surprises—do more than entertain; they play a key role in keeping learners engaged.
+You Can Be More Than One Thing
+Duolingo doesn’t fit neatly into one category. We’re not a game, but we’re not just an education product either. Along that blurry line lies the magic. The fact is, we’re competing with platforms like TikTok, Instagram, and online games for attention, so we have to make learning as fun as any of them. These platforms are designed to keep people endlessly scrolling and watching. What sets Duolingo apart is that our users come with a clear goal: learning. It’s not mindless entertainment; it’s a productive and purposeful use of your time. And the fun, the unexpected moments, and the quirky design are what make you stay.
+
+Quirky Culture Open Doors
+At some companies, there is a room at the end of the hall with a giant mahogany table where all the real decisions are made. It’s not like that here. (In fact, Luis’s go-to conference room is a public fishbowl.) We’re open about the most important issues at the company—even ones that other places might try to keep quiet. Q&A with Luis is one space where this transparency is obvious. But more generally across Duolingo, we make a point of being available: even our most senior leaders are one DM away. Anyone at the company can attend Product Review. This openness and transparency set the conditions for taking risks and getting weird.
+Joy by Design
+Our product is fun because of the people who build it. It’s obvious to anyone who walks into the office:
+on any given day, you might see a human-size Duo practicing calisthenics in the atrium, or stumble upon one of more than 100 clubs devoted to everything from crossword puzzles to oysters. Maybe you’re around in October and catch the annual Pittsburgh Puppy Parade. None of this is by accident. A great culture is hard to build, easy to lose, and essential for our success.
+
+This reaches a peak during our annual winter Getaway, when the entire company decamps to Cancun without agendas or panels or training sessions. The goal is simple: give Duos a low-pressure space to connect and unwind. We believe that when we genuinely enjoy our working environment and each other’s company, work becomes better, in all senses of the word.
+
+*Respect Boundaries
+The reason we can be goofy and experiment without judgment is because we have a baseline of care and respect within the company. With a diverse team of backgrounds, experiences, and perspectives, it’s important to be thoughtful—what’s funny to one person might not land for another. Everyone here is an adult, and we expect you to respect people’s boundaries.
+
+Wholesome and Unhinged
+Over the years, we've experimented with different formats, tones, and design languages—eventually landing on our unique brand: wholesome and unhinged.
+Committing to the Bit
+It took some time to find our voice, especially with our external marketing. Early on, we tried to appeal to the broadest possible audience, but we ended up with nothing distinctive to say. And in marketing, there’s nothing worse than being bland. So we changed tack, and our approach to marketing became weird, unexpected, and often funny.
+Humor doesn’t scale perfectly. It’s subjective, sometimes polarizing. So to unleash the full power of Duo humor, we had to accept that not everyone would get the joke. What truly matters is that people who do get it love it—and we do everything we can to nurture that passion.
+Duality of Duo
+Our mascot was initially designed to encourage regular practice. But once the internet got their hands on him, he grew into a more complicated—even menacing—character with his own lore. He’s still cute and cuddly. But he’s also willing to temporarily relocate your family to ensure you finish your lessons.
+
+By leaning into the joke, Duo has become a bona fide viral sensation. He’s shown up everywhere from Saturday Night Live to popular video games and celebrity Instagrams. There are galaxies of crazy memes, from Buff Duo to Anime Duo and more.
+April Fools
+April Fools is the perfect holiday for Duolingo: everything is
+fair game for a joke, and the further you push it, the better. We realized in the early years of the company that April Fools stunts were a great way to generate buzz and celebrate our quirky sense of humor. Our earliest experiments, like the Duolingo Pillow, have evolved into full-scale campaigns—like 2024’s Duolingo on Ice, which garnered 100 million social media impressions.
+
+Five Seconds with Duo
+Super Bowl LVIII. 200 million viewers are watching around the world. All of a sudden, a bright green owl shoots another owl out of his butt, reminding you to "Do your Duolingo."
+It wasn’t your typical Super Bowl ad—but it couldn’t have been more Duolingo.
+Those five seconds, which aired on February 11, 2024, were the culmination of months of collaboration across a half dozen teams. We didn’t want to pay for a 30-second spot, so we gave ourselves a challenge: How could we make a splash in just five? We knew that every pixel mattered. There wasn’t time for flash or filler, so we embraced the quirky, unhinged, unexpected nature of Duo himself. When debates broke out over the “right amount of butt” to show, we knew we had a winning idea.
+The gamble paid off. For a fraction of the cost, our ad generated as much buzz as any other Super Bowl ad that year, and appeared on multiple “best of” lists. It was playful, unexpected, and didn’t take itself too seriously—exactly the formula that has driven our success as a brand.
+
+THE GREEN MACHINE
+Our principles provide the theory. The Green Machine puts that theory into practice.
+
+Our Process
+By this point, we’ve covered a lot about our principles—their history, why we have them, and what they mean. The Green Machine is a framework for putting them to work.
+This approach emerged organically during our earliest days as a startup and has been refined every year since. (Along the way, it has produced some of our most valuable innovations and biggest wins.) You can think of The Green Machine as a process of continuous improvement through small changes. When a small change improves metrics, we make more changes like that.
+In its most basic form, the Green Machine goes like this: gather excellent people, give them space to experiment, and then double down on what works.
+If you're working on something, and you're stuck, check it against these six steps. Maybe it's faltering because you didn't think carefully enough about your team, or because you don’t have the proper feedback loops. The Green Machine model can help just about any project get on track.
+
+The Green Machine: Six Steps 1. Staff It with Great People
+Great experiments require exceptional teams who can quickly brainstorm ideas, execute, and pivot on a dime. This is why we set such a high bar in hiring and invest so much in our people. We like to keep teams lean and scrappy to start, only adding more people once we see success.
+2. Define Success
+We always want to set clear, measurable goals—whether it’s DAUs, bookings, or social impressions. But metrics aren’t always available for early-stage projects. In that case, we define the best available qualitative goals, iterate toward clarity, and keep an eye out for any useful signals.
+3. Set Guardrails and Think Long-Term
+We use guardrails to ensure our work benefits both Duolingo and our learners over the long term. This aligns with our core principle, Take the Long View. Thoughtful guardrails help us focus on sustainable, meaningful growth, ensuring that each experiment serves a greater purpose.
+
+4. Build the Thing and Set Up Feedback Loops
+The fastest way to create something excellent isn’t through abstract discussions. Just start building, and create the right continuous feedback loops. This feedback comes from both quantitative (A/B test results, social impressions, efficacy research) and qualitative sources (extensive dogfooding). Early- stage projects typically lean more heavily on qualitative feedback before shifting to more data-driven metrics.
+5. Execute with Urgency and Excellence
+Because of the compounding nature of smaller improvements, there is a huge cost to moving slowly. But moving too fast
+can also lead to sloppy outcomes. In step five, we work to continuously (and urgently) ship work that meets our bar.
+6. Double Down on What Works, Stop What Doesn’t
+When something is working, we allocate more resources and keep working on it (sometimes for years). But we need to be comfortable sunsetting projects or even entire products that don’t demonstrate success.
+
+Part of the Plan
+Crucially, the Green Machine is not a replacement for planning. We still have quarterly OKRs, annual goals, and a long-range financial plan. The difference is that we don’t rely on multi-year roadmaps for the app.
+
+Glossary
+Bookings
+We use bookings to indicate the amount of money we earn from users on subscriptions to Duolingo, in-app purchases, DET purchases, and advertising networks.
+DAUs
+Daily Active Users. The number of individuals using Duolingo every day across iOS, Android, and the website. DAUs is one of the most important metrics we track, and tells us how well our products are doing.
+DET
+The Duolingo English Test—our second major product. An adaptive certification test used to demonstrate English proficiency. Used primarily to meet international admissions requirements for universities.
+Dogfooding
+When Duos test features of the product themselves.
+Duo
+Duo was created in a
+Duoversary
+Once a year, we gather the entire company in Pittsburgh to celebrate the anniversary of launching Duolingo to the public: June 19, 2012.
+Experiments
+Tests to see what works and what doesn’t. A/B tests are a specific type of experiment where we simultaneously run two or more options against one another.
+Go, Go, Go!
+Something Luis yells when you’re doing something right.
+
+Juicy
+Duolingo’s visual design system. Plumper, friendlier, and juicier than it used to be.
+MAUs
+Monthly Active Users. Number of unique users who engage with Duolingo every month.
+Nuo
+Brilliant, bright-eyed owl who asks a ton of questions in their first 90 days of working at Duolingo.
+OKRs
+Objectives and Key Results. A model for goal-setting originally developed at Intel in the 1970s. Here at Duolingo, we set team OKRs every quarter and company OKRs once a year.
+Parliament
+A gathering of owls. Also, our weekly all-hands meeting—usually on Mondays.
+Pittsburgh
+Fabled city at the confluence of three rivers said to be the birthplace of Duo. Also, our HQ!
+PR
+Product Review—the meeting where we green-light every change to the app. Led by the Product Org, but anyone can listen in! (Alternative meanings: Public Relations, and Pull Request.)
+SLT
+The Senior Leadership Team—consisting of all VPs and above at the company. And a few stray owls.
+Subscribers
+Users who pay for access to any Duolingo paid subscription offering.
