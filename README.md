@@ -64,7 +64,7 @@ Raise the Bar
 * We give candid feedback that focuses on the “what” and not the “who.”
 
 > 樹立標竿
-> * 每項功能都必須直覺易用、令人愉悅、實用且精雕細琢。
+> * 每項功能都必須直覺易用、充滿趣味、實用且精雕細琢。
 > * 我們確保每項關鍵任務都有明確的負責人。
 > * 我們親自體驗自家產品，發現問題並提出改進方案。
 > * 我們給予坦誠的回饋，對事而不對人。
@@ -342,33 +342,30 @@ To change how the world learns, we must do world-class work.
 Excellence isn’t some lofty goal—it’s our baseline.
 
 The expectation is that we’ll do the best work of our careers here, constantly pushing our craft and ideas to meet our bar and then exceed it.
-Still, we’re human, and we’re going to make mistakes. When that happens, we don’t chase blame. We dig
-in and figure out what happened. This is how we continuously raise the bar—not by being perfect, but by being a little bit better each day.
+Still, we’re human, and we’re going to make mistakes. When that happens, we don’t chase blame. We dig in and figure out what happened. This is how we continuously raise the bar—not by being perfect, but by being a little bit better each day.
 
-> 卓越不是一個崇高的目標——它是我們的基本要求。
+> 卓越不是一個崇高的理想——而是我們的基本要求。
 > 
-> 我們的期望是，在這裡我們將做出職業生涯中最出色的作品，不斷推動我們的技藝和創意，不達到標準，更要超越它。
+> 我們期望在這裡創造出職涯中最出色的成就，不斷推動我們的技藝和創意，不僅達到我們訂下的標準，更要超越它。
 > 
-> 當然，我們是人，也會犯錯。當錯誤發生時，我們不會推卸責任。我們會深入分析，找出問題所在。這就是我們不斷提升標準的方式——不是一開始就完美，而是每天都進步一點。
+> 然而，我們畢竟都是人，難免會犯錯。當錯誤發生時，我們不會到處追究責任，而會深入分析，找出問題所在。這就是我們不斷提升標準的方式——不在於追求完美，而是每天都進步一點。
 
 Culture of Excellence
-Our bar for quality was set at the top and at the beginning. Luis, Severin, and the early team share a nearly ridiculous attention to detail. (Luis is the rare CEO who still reports every bug he finds in the app.) But it’s no longer just about leadership or
-any individual Duo. As the company has grown, we’ve worked together to define clear standards for excellence and scale them across the organization.
+Our bar for quality was set at the top and at the beginning. Luis, Severin, and the early team share a nearly ridiculous attention to detail. (Luis is the rare CEO who still reports every bug he finds in the app.) But it’s no longer just about leadership or any individual Duo. As the company has grown, we’ve worked together to define clear standards for excellence and scale them across the organization.
 
 > 卓越文化
 > 
-> 我們對品質的要求從一開始就設立在最高點。Luis、Severin 和早期的團隊對細節有著近乎苛求的關注。（Luis 是那種會回報他在 app 中發現的每一個 bug 的稀有 CEO。）卓越不是僅僅是關乎於領導階層或任何單獨的 Duo，隨著公司成長，我們共同定義了對於卓越的清楚標準，並將標準推行到整個組織。
-
+> 我們對品質的要求一開始就設立在最高點。Luis、Severin 和早期的團隊對細節的要求近乎到了苛刻的程度。（Luis 是那種至今仍會回報他在 app 中發現的每一個 bug 的難得 CEO。）卓越不是僅僅是領導層或某一位 Duo 的功勞，隨著公司成長，我們共同定訂了明確的卓越標準，並推廣到整個組織。
 
 Taking Ownership
 One key to maintaining high standards is assigning ownership. That means putting a person or team on a task, providing a clear mandate and saying, “You are responsible.” We’ve seen it again and again: only things that are owned become excellent.
 As we grow, unclear ownership can become a challenge. One task might stretch across four functions and seven teams, and it’s not clear who owns what. There will always be some projects where defining ownership is tricky, or impossible. But the most important projects at the company should have an owner.
 
-> 責任歸屬
+> 承擔責任
 > 
-> 維持高標準的關鍵之一是明確的責任歸屬。這個意思是，將一個任務明確的授權給一個人或團隊，告訴他們：「這是你的責任。」我們不斷發現，只有那些有明確的歸屬事物，才能達到卓越。
+> 維持高標準的關鍵之一，就是明確指派負責人。也就是說，將任務分派給某個人或團隊，賦予明確的指令，告知「這項工作由你負責。」我們屢次發現，只有那些有明確負責人的事情，才能達到卓越。
 > 
-> 隨著組織的成長，責任的歸屬會是一項挑戰。一個任務可能需要橫跨四個職位和七個團隊，誰負責什麼部分卻不太清楚。總會有一些專案很難界，甚至無法界定定責任。但公司中最重要的專案，一定要有明確的負責人。
+> 隨著組織的成長，責任的歸屬會是一大挑戰。一項任務可能需要橫跨四個部門和七個團隊，但究竟誰負責哪個部分卻不太明朗。總會有一些專案很難、甚至無法界定定責任。但公司中最重要的專案，一定要有明確的負責人。
 
 Hard on the Work, Easy on the People
 Our culture is famously warm and friendly. And that’s great! But a warm-and-fuzzy culture can make it hard to have tough conversations. We’ve always been clear when giving feedback on design and product, but we want to be more candid in other areas, too.
@@ -376,17 +373,19 @@ The standard here is “hard on the work, easy on the people.” That means givi
 
 > 對工作嚴格，對人寬容
 > 
-> 我們的文化以溫暖和友善聞名，這非常棒！但是，溫暖的文化有時會讓我們在進行嚴肅的對話時感到艱難。我們在給予設計和產品回饋時，一向直截了當，我們希望對於其他部分，也能更加直接。
-> 這裡的標準是「對工作嚴格，對人寬容」，這意味著我們提供有建設性、清楚的回饋來激盪想法，而不會破壞關係。（我們關注的是「事情」，而非「是誰」。）這同時著我們願意接受意見，並且不把意見當作是針對。真誠、具建設性的建議，讓我們能夠在相互信任與合作，與對方一起達到高標準。
+> 我們的文化以溫暖和友善聞名，這點非常棒！但是這種溫暖的文化，有時會讓我們難以展開嚴肅的對話。我們在給予設計和產品回饋時一向直截了當，對於其他領域，我們也希望能更加直接。
+> 這裡的標準是「對工作嚴格，對人寬容」，這意味著我們提供有建設性、清楚的回饋來激盪想法，而不會破壞彼此的關係。（我們關注的是「事情」本身，而非「個人」。）這同時也代表，我們願意開放心胸接受意見，不把意見視為針對個人的批評。真誠、具建設性的建議，讓我們能夠在彼此督促達到高標準的同時，也能培養出信任與協作的氛圍。
 
-（以下尚未翻譯）
 Dogfooding
 Another key way we maintain excellence is by using the app daily. This ensures that we ourselves love the product and that bugs are spotted and resolved quickly. To make this process
-even more effective, we built Shake to Report, a simple tool
-that lets anyone in the company snapshot and report an issue instantly by shaking their device. Over the years, Shake to Report has become a vital part of our development process, making excellence in the app a shared responsibility.
+even more effective, we built Shake to Report, a simple tool that lets anyone in the company snapshot and report an issue instantly by shaking their device. Over the years, Shake to Report has become a vital part of our development process, making excellence in the app a shared responsibility.
+
+> 親自使用
+> 另一個維持卓越的關鍵方式，就是每天使用我們的 app。這不僅確保我們自己也愛上這個產品，同時也能迅速發現並修復漏洞。為了讓這個過程更加有效，我們開發了「搖晃以回報問題」——一個簡單的工具，只需搖晃裝置，便能讓公司內任何人立即截圖並回報問題。多年來，「搖晃以回報問題」已成為我們開發流程中不可或缺的一環，使追求 app 卓越品質變成了大家共同的責任。
 
 Setting the Bar
 So, where exactly is this excellence bar, and how do we make sure we’re hitting it? Let’s see what this looks like across a few areas of the company.
+
 The Bar for Product and Design
 In product and design, there are four elements that guide us:
 
@@ -395,18 +394,44 @@ Useful: Learners need to get utility out of whatever we’ve built. Otherwise, w
 Intuitive: Learners should be learning, not figuring out how to use the app. Every feature must be easy to use for everyone—it doesn’t matter whether they’re a 75-year- old in India using an Android or a 16-year-old in New York City on an iPhone. If a feature or screen requires explanation or additional context, it’s not right.
 
 Delightful: Every new feature needs to have some amount of fun and delight. We might not need the most elaborate animations in the first iteration of a feature, but there should always be a hint of the magic that learners love.
+
 Polished: This is what makes a feature feel complete. Tight visual design, perfect copy, and seamless interactions are the baseline. Nothing should feel clunky or inconsistent. For instance, we shouldn’t have both a Back button and an X button that do the same thing.
+
+> 設立標竿
+> 這個卓越標準究竟在哪裡？我們又該如何確保自己能達到它？讓我們來看看公司各領域的具體表現。
+>
+> 產品與設計的標準
+> 在產品與設計方面，有四個要素指引著我們：
+>
+> 實用性：學習者需要能從我們所打造的產品中獲得實際價值，否則我們只是在增加 app 的複雜性，反而讓學習者偏離他們原本的目標。
+>
+> 直覺性：學習者是來學習的，而不是來摸索該如何使用app。每個功能必須對所有人來說都易於操作——無論是使用 Android 的印度 75 歲長者，還是拿著 iPhone 的紐約市 16 歲青少年。如果某個功能或畫面需要額外解釋或說明，那就不合適。
+>
+> 趣味性：每項新功能都應該帶有一些樂趣與驚喜。雖然在功能的最初初版本中不必追求最精緻的動畫，但總該帶有一絲讓學習者著迷的魔力。
+> 
+> 精緻度：這是讓一項功能顯得完整的關鍵。緊密的視覺設計、完美的文案與無縫的互動是基本要求，任何部分都不應該顯得突兀或不一致。例如，我們不應同時設置一個「返回」按鈕和一個功能相同的「X」按鈕。
 
 The Bar for Hiring
 Our people set the bar for everything else we do.
 So, we insist on bringing in exceptional talent— individuals who stand out not just in their skills but in their character. That might mean someone who was at the top of their class, or the first from their family to graduate from college—but also is genuinely kind. To maintain this standard, Luis and Severin still approve every new hire.
 We don’t lower this bar for anyone. For example, we once passed on a senior executive for a role we had been trying to fill for over a year because they weren’t kind. They aced their interviews and had a strong resume but were disrespectful to the driver who picked them up from the airport. That single moment told us what we needed to know. Excellence isn’t just what you do—it’s how you treat others.
 
+> 招募標準
+> 我們的團隊成員訂下工作中所有的標準。
+> 因此，我們堅持聘用那些傑出的人才——不僅在技能上脫穎而出，更在品格上出眾。這可能意味著某人是班上的第一名，或是他們家中第一位大學畢業生，但最重要的是，他們必須是真誠且友善的人。為了維持這個標準，Luis 和 Severin 至今仍親自審核每一位新進員工。
+> 我們絕不會為任何人降低這一標準。例如，我們曾因一位資深主管缺乏善意而放棄聘用，儘管這個職位我們已徵才超過一年。該主管在面試中表現出色，履歷也十分亮眼，但他對接機司機表現出不尊重的態度。僅憑這一刻，我們就得知他不符合我們的要求。卓越不僅在於你做了什麼，更在於你如何對待他人。
+
 V1s Not MVPs
 The idea of shipping unfinished features, or Minimum Viable Products (MVPs), is common across tech. But MVPs come with a specific set of expectations—and limitations.
 At Duolingo, we don’t do MVPs—we do V1s.
 The difference is important: MVPs often have a lower standard of quality and can be used as an excuse to ship subpar work. V1s, on the other hand, are polished. They may not have all the bells and whistles, but they meet our bar. Sometimes this approach takes a little longer, but we refuse to compromise our users’ experience by showing them half-baked ideas.
 
+> 推出第一版，而非最小可行產品
+> 在科技界，推出未完成的功能或最小可行產品（MVP）的概念相當普遍，但最小可行產品帶有一系列特定的預期與限制。
+> 在 Duolingo，我們不做最小可行產品，我們做第一版產品。
+> 這一差異至關重要：最小可行產品往往代表較低的品質標準，甚至可能成為推出次等產品的藉口；而第一版產品則經過精心打磨。雖然它們可能不具備所有花俏功能，但完全符合我們的標準。有時這種作法可能需要更長的時間，但我們絕不會為了趕時間而以半成品的概念妥協使用者體驗。
+
+（以下尚未翻譯）
 PRINCIPLE #3 SHIT IT!
 For a good idea to become reality, we need to move with a sense of urgency. So Go, Go, Go!
 
