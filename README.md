@@ -75,11 +75,11 @@ Ship It
 * We ruthlessly prioritize projects with the highest impact and quickly cut what isn’t working.
 * We’ll only introduce a new process if it helps us make faster, better decisions.
 
-快速執行
-* 我們最佳化「時脈」，縮短各階段間的間隙，以保持動力。
-* 我們每週進行數百次實驗，持續改進產品與組織。
-* 我們毫不猶豫優先投入最具影響力的專案，並果斷淘汰無效方案。
-* 只有當新流程能幫助我們更快、更好的做出決定時，我們才會引入它。
+> 快速執行
+> * 我們最佳化「時脈」，縮短各階段間的間隙，以保持動力。
+> * 我們每週進行數百次實驗，持續改進產品與組織。
+> * 我們毫不猶豫優先投入最具影響力的專案，並果斷淘汰無效方案。
+> * 只有當新流程能幫助我們更快、更好的做出決定時，我們才會引入它。
 
 Show Don’t Tell
 * We lead with the results of our work, not the story of its effort.
@@ -204,12 +204,18 @@ to stick around. And our experience validates this: on average, Duos stay here m
 > 
 > 好消息是，當你找了對的人，他們往往會長期留在這裡。我們證實了這一點：平均來說，Duos 的在職時間比大多數科技公司的員工要長久。許多人從剛畢業的學生起步，在這裡發展他們的技能，隨著時間挑戰新的任務。無論你有多少經驗，我們都希望你能長期的在這裡。
 
-（以下尚未翻譯）
 Building a Forever Product
 
 The Duolingo app is designed to be sticky in the short- term and transformative in the long-term. For years, we’ve focused on building something so useful and delightful that it becomes an essential part of our learners’ lives.
 Learning—particularly language learning—requires regular practice over extended periods of time. That’s why we prioritize user retention, and have spent years perfecting the Streak feature. The more we can do to keep our learners committed for the long haul, the more value they’ll get from Duolingo.
 We also invest in teaching better. Even though this doesn’t generate immediate revenue, we know that if a product fails to deliver on its promise, people will eventually stop using it.
+
+> 打造永恆的產品
+> Duolingo 的設計不僅要讓使用者在短期內愛不釋手，更要在長期帶來深遠的影響。多年來，我們專注於打造一個實用又令人愉悅的產品，讓它成為學習者生活中不可或缺的部分。
+> 
+> 學習——特別是語言學習——需要長時間的規律練習。因此，我們將使用者留存率視為優先目標，並投入多年時間打磨連勝（Streak）功能。我們做的越多，讓學習者持續投入越久，他們從 Duolingo 獲得的價值就越高。
+> 
+> 我們也不斷投資於更好的教學方式。雖然這不會立即帶來營收，但我們深知，如果產品無法兌現它的承諾，使用者最終還是會停止使用。
 
 Notifications
 
@@ -217,19 +223,40 @@ Every day, Duolingo sends millions of messages to learners. These notifications 
 More notifications leads to more Daily Active Users (DAUs)*
 in the short-term. But people who feel bombarded don’t stick around for long—they eventually turn off notifications or abandon the app entirely. That's why we put firm limits on notifications, regardless of what the short-term metrics suggest. User trust matters more than immediate gains.
 
+> 通知機制
+> 
+> Duolingo 每天都會發送送數百萬則訊息給學習者，而這些通知必須在長遠考量與短期目標之間取得平衡。
+> 
+> 增加通知次數，短期內確實能提升每日活躍使用者數（DAU），但如果使用者覺得被訊息轟炸，最終不是關閉通知，就是直接刪除應用程式。因此，無論短期數據顯示什麼結果，我們都會嚴格控制通知的頻率。比起眼前的成長，我們更在乎的是使用者的信任。
+
 Juicy
 
 Duolingo didn’t always look like the app you see today. For years, it featured a light gray background, muted button colors, and a more robotic-looking Duo. But in 2018, a few of our designers and illustrators began working on a concept for a kids’ app. With brighter colors, rounder corners, and a cuter, friendlier Duo, the new design made learning feel more like a game. It was exactly the kind of playful experience we wanted for the main app. So, even though we didn’t expect it to boost metrics in the short- term, we took the leap and applied this new design language— dubbed Juicy—across all of Duolingo.
 
 This redesign wasn’t just about aesthetics; it was an investment in the future. While risky and resource intensive, it set the foundation for the playful world that now defines our brand: expressive characters, delightful animations, and a learning experience that feels like play. By taking the long view, we created a design language that would scale with the product for years to come.
 
+> Juicy
+> 
+> Duolingo app 一開始不是你現在看到的這種風格。早期的介面是淺灰色背景、低飽和度的按鈕，以及一隻機械感較重的 Duo。直到 2018 年，幾位設計師和插畫家開始為兒童版 app 構思新風格，更鮮豔的色彩、更圓潤的邊角，還有一隻更可愛、更親切的 Duo。這樣的設計讓學習變得更像遊戲，也正是我們想要帶給大家的體驗。因此，雖然我們不認為這養的改變在短期內能帶來數據的成長，但我們還是大膽採用了這種全新的設計語言，將其使用在整個 Duolingo 生態系，這就是 Juicy。
+> 
+> 這次改版不只是視覺上的調整，更是對未來的投資。雖然過程風險高、資源投入大，但它奠定了 Duolingo 充滿趣味性的品牌基調：生動的角色、俏皮的動畫，以及讓學習更像遊戲的體驗。從長遠來看，這套設計語言讓我們能夠隨著產品的發展不斷擴展，並保持一致的風格。
+
+（以下尚未翻譯）
 Setting the Proficiency Standard
 
 When asked how much English somebody knows, we want them to say, “My Duolingo Score is 70.” The Duolingo Score is an estimate of users’ proficiency in the language they’re learning, and the Duolingo English Test (DET) is a way to certify the
-score that can be used for high-stakes purposes, like university admissions. Together, they form our two-pronged approach
-to becoming the standard measure for language proficiency. Putting the score in the app gives us volume—hundreds of millions of people see it. Having a way to certify it with the DET gives us credibility—the score can get you admission to even the most prestigious universities in the world.
+score that can be used for high-stakes purposes, like university admissions. Together, they form our two-pronged approach to becoming the standard measure for language proficiency. Putting the score in the app gives us volume—hundreds of millions of people see it. Having a way to certify it with the DET gives us credibility—the score can get you admission to even the most prestigious universities in the world.
 Of course, becoming the proficiency standard is not easy, and could take decades—but that’s exactly why the Duolingo Score and the DET are great examples of taking the long view.
 
+> 樹立語言能力標準
+> 
+> 當問起某人的英文程度如何，我們希望回答會是：「我的 Duolingo 分數是 70。」Duolingo 分數是對使用者正在學習的語言做的能力評估，而 Duolingo 英文測驗（DET） 則提供了一種正式認證方式，適用於大學申請等重要場合。這兩者結合，構成了我們建立語言能力標準的雙軌策略。
+> 
+> 在 App 內顯示分數，能讓數億使用者看見它，這帶來了規模優勢。而透過 DET 認證，則讓這個分數具備公信力——甚至全球最頂尖的大學接受它作為語言能力證明。
+> 
+> 當然，要成為語言能力的標準衡量指標並不容易，甚至可能花費數十年——Duolingo 分數與 DET 就是我們長遠考量的最佳例證。
+
+（以下尚未翻譯）
 Engineering the Future
 
 In engineering, taking the long view requires a slightly
