@@ -75,7 +75,7 @@ Ship It
 * We ruthlessly prioritize projects with the highest impact and quickly cut what isn’t working.
 * We’ll only introduce a new process if it helps us make faster, better decisions.
 
-> 快速執行
+> 上線吧
 > * 我們最佳化「時脈」，縮短各階段間的間隙，以保持動力。
 > * 我們每週進行數百次實驗，持續改進產品與組織。
 > * 我們毫不猶豫優先投入最具影響力的專案，並果斷淘汰無效方案。
@@ -436,9 +436,10 @@ The difference is important: MVPs often have a lower standard of quality and can
 > 在 Duolingo，我們不做最小可行產品，我們做第一版產品。
 > 這一差異至關重要：最小可行產品往往代表較低的品質標準，甚至可能成為推出次等產品的藉口；而第一版產品則經過精心打磨。雖然它們可能不具備所有花俏功能，但完全符合我們的標準。有時這種作法可能需要更長的時間，但我們絕不會為了趕時間而以半成品的概念妥協使用者體驗。
 
-（以下尚未翻譯）
-### PRINCIPLE #3 SHIT IT!
+
+### PRINCIPLE #3 SHIT IT! | 上線吧！
 For a good idea to become reality, we need to move with a sense of urgency. So Go, Go, Go!
+> 要讓好點子成真，我們必須以緊迫感行動。所以，快、快、快！
 
 When Duolingo was starting out, we were all sitting in one room.
 We didn’t have formal Product Reviews, or OKRs, or any of the structure we have today. There was no blueprint because no other learning app was doing what we were trying to do. We were—for better or worse—making things up as we went along.
@@ -447,9 +448,21 @@ We were also fast as hell. And the pace of our experimentation allowed us to qui
 It’s still like this even today. We ship new versions of our iOS and Android apps every week. And we’re running hundreds of experiments* across the company at any given time. Duolingo goes nowhere without this principle. “Ship It” keeps us ahead of our competitors; “Ship It” makes Duolingo a fun place to work; “Ship It” ensures that our product never sits still.
 
 Go, Go, Go!
+
 Duolingo is the sum of thousands of experiments. The faster we can run experiments—successful or not—the faster we can improve the app and advance our mission. Over time, each of these changes builds on one another, creating a cycle of compounding growth.
-Shipping fast also lets us avoid lengthy debates and guesswork about what we should be doing. That’s because testing in
-the real world gives us better information than any internal discussion ever could. So, we move quickly—to start these feedback loops and let real data guide our work.
+Shipping fast also lets us avoid lengthy debates and guesswork about what we should be doing. That’s because testing in the real world gives us better information than any internal discussion ever could. So, we move quickly—to start these feedback loops and let real data guide our work.
+
+> 當 Duolingo 剛起步時，我們全都在同一間個空間裡工作。
+> 當時我們沒有正式的產品檢討會、OKR，也沒有今天這些制度化的架構。因為沒哪個學習 app 和像我們想要做的類似，所以完全沒有可以參考的藍圖。我們只能不論成敗，邊走邊摸索。
+> 我們真的快得不得了。高速的實驗節奏讓我們能迅速找出哪些方法有效，哪些無效，並及時捨棄不行的部分。這原則適用於所有領域：產品、招募、工程，乃至整個業務。我們以超高速不斷測試與學習。
+>
+> 即便到了今天，情況依舊如此。
+> 我們每週都會發佈新版的 iOS 和 Android 應用程式，而公司內隨時都有數百個實驗在進行。沒有這個原則，Duolingo 絕不可能有今天的成就。「上線吧！」讓我們領先於競爭對手；「上線吧！」讓 Duolingo 成為一個有趣的工作環境；「上線吧！」確保我們的產品不會停滯。
+>
+> 快、快、快！
+> 
+> Duolingo 是由數以千計的實驗累積而成。我們進行實驗的速度（無論成敗）越快，應用程式的改進和我們使命的推進也就越迅速。隨著時間的推移，每一次改變都在累積，形成一個滾雪球式的成長循環。
+> 快速上線還能避免我們陷入冗長的辯論和無謂的猜測，因為在真實世界中測試所得到的資訊，比任何內部討論都來得真實可靠。所以，我們必須迅速行動，啟動這些回饋循環，讓真實數據指引我們前進。
 
 Clock Speed
 “Clock speed” is a mindset that drives how we work. The concept comes from microprocessor technology, where clock speed measures how quickly a system can process instructions. We use the term to talk about minimizing the gaps between actions: the time between when a decision is made and when it’s implemented, or when feedback is given and changes are made.
@@ -490,6 +503,7 @@ during informal meetings, which sometimes got messy. Not all stakeholders were i
 Taking inspiration from engineering’s code review process, we introduced a formal structure for Product Review. Today, PR ensures that everyone is clear on what decisions were made, and that all relevant stakeholders are informed. The meeting also includes a rotating group of leaders from Product and Design who weigh in, ensuring diverse perspectives.
 The success of PR has set a precedent for other teams. Marketing, for instance, has adopted a Marketing Review, which brings the same clarity and alignment to their campaigns. These processes help us maintain our quality bar—and make faster and visible decisions across the company.
 
+（以下尚未翻譯）
 PRINCIPLE #4 SHOW DON'T TELL
 We use clear, concise communication that is grounded in data and real impact.
 
