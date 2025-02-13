@@ -131,14 +131,13 @@ Not every section applies to every employee in every situation. Think of the pri
 
 
 ### Table of Contents 目錄
-Table of Contents
-Take the Long View
-Raise the Bar
-Ship It
-Show Don’t Tell
-Make It Fun
-The Green Machine
-Glossary
+* Take the Long View
+* Raise the Bar
+* Ship It
+* Show Don’t Tell
+* Make It Fun
+* The Green Machine
+* Glossary
 
 ### PRINCIPLE #1 TAKE THE LONG VIEW | 原則 #1 長遠考量
 If it helps in the short-term, but hurts Duolingo in the long-term, it’s not right.
@@ -250,9 +249,7 @@ Of course, becoming the proficiency standard is not easy, and could take decades
 > 設立語言能力標準
 > 
 > 當問起某人的英文程度如何，我們希望回答會是：「我的 Duolingo 分數是 70。」Duolingo 分數是對使用者正在學習的語言做的能力評估，而 Duolingo 英文測驗（DET） 則提供了一種正式認證方式，適用於大學申請等重要場合。這兩者結合，構成了我們建立語言能力標準的雙軌策略。
-> 
 > 在 App 內顯示分數，能讓數億使用者看見它，這帶來了規模優勢。而透過 DET 認證，則讓這個分數具備公信力——甚至全球最頂尖的大學接受它作為語言能力證明。
-> 
 > 當然，要成為語言能力的標準衡量指標並不容易，甚至可能花費數十年——Duolingo 分數與 DET 就是我們長遠考量的最佳例證。
 
 Engineering the Future
@@ -264,18 +261,17 @@ This balance—focusing on speed while reserving long-term investments for what 
 > 打造未來的工程
 > 
 > 在工程領域，長遠考量有略微不同的方式。我們知道在未來數年我們仍會不斷改進產品。因此，我們不會一開始就設計一個永久不變的系統，而是先快速測試想法，只有在成功驗證後，才投入大量工程資源。如果某項嘗試行不通，我們會果斷捨棄，保持程式碼乾淨，避免不必要的浪費。
-> 
 > 視訊通話是一個很好的例子，我們只在它獲得使用者青睞後，才投入資源擴展與穩定系統。另一個例子是通知，當我們意識到未來幾年都會不斷測試通知文案時，便開發了一個專屬工具，讓產品經理可以自行測試文案，而不需要依賴工程團隊。
-> 
 > 這種在速度與長期投資之間取得平衡的方式，讓我們能夠快速創新，同時確保真正有效的方案能夠長久發展，也正是我們成功的關鍵。
 
 Becoming a Business
+
 For years, Duolingo didn’t make money. We were laser-focused on growing our user base and keeping learners engaged. Also, some of us worried that monetizing Duolingo could get in the way of our mission.
 That perspective began to shift after our Series D funding round in 2015. We started exploring revenue models—in-app purchases (IAPs), advertising, and paid subscriptions—with one key caveat: they could never compromise our mission. We weren’t going to put learning behind a paywall.
 
 > 邁向商業化
-> 多年來，Duolingo 並沒有營利。我們將全部心力投入在擴大使用者群體，並確保學習者能持續參與。此外，我們中的一些人擔心，商業化可能會影響我們的使命。
 > 
+> 多年來，Duolingo 並沒有營利。我們將全部心力投入在擴大使用者群體，並確保學習者能持續參與。此外，我們中的一些人擔心，商業化可能會影響我們的使命。
 > 這樣的想法在 2015 年 D 輪融資 後開始轉變。我們開始探索不同的營收模式——應用內購買（IAPs）、廣告與付費訂閱，但有一個關鍵原則：這些做法絕不能違背我們的使命。我們不會把學習鎖在付費牆後。
 
 Building a Monetization Engine
@@ -285,39 +281,42 @@ It became clear that introducing a freemium subscription product was the best op
 Plenty of investors—and even some of us at Duolingo —wondered whether offering such a great free product would provide too little incentive for learners to subscribe. There will likely always be a tension between accessibility and revenue. But over time, our approach to monetization has shown that we can strike this balance, achieving long-term loyalty while building a large business.
 
 > 打造變現引擎
+> 
 > 我從應用程式內購著手，但除了連勝激凍（Streak Freeze）以外，幾乎沒什麼能買的。廣告收入也有限，我們發現每堂課結束後播放一則廣告不會影響使用者留存，但如果超過這個數量，大家就會選擇離開。
-> 
 > 於是我們意識到，推出 Freemium 訂閱方案是擴展業務的絕佳機會。困難的是，如何讓無法負擔費用的使用者依然獲得優質的學習體驗。我們設計出訂閱方案，提供無廣告體驗，並解除愛心限制，這兩個功能減少了學習上的摩擦，讓學習流程更加順暢。多年來，我們不斷微調這個模式，但核心理念始終不變：付費產品讓我們有資源推動使命，而免費產品則是我們實現使命的關鍵。
-> 
 > 許多投資人，甚至 Duolingo 團隊內部的一些人，曾經擔心如果免費內容做得太好，會導致使用者缺乏訂閱的動機。事實上，可及性與營收之間的拉扯可能永遠都會存在。但時間證明，我們的變現策略找到了平衡點，既建立了長期忠誠度，並發展出一個龐大的事業。
 
 A 100-Year Brand
+
 Through steady growth and clever marketing, we’ve made Duolingo a household name. Even people who’ve never used the app are familiar with our mascot, the delightful—if sometimes unhinged—Duo. We’ve invested a ton in Duo’s journey, along with the rest of our characters and the world they inhabit. This says a lot about our ambitions. We’re not just trying to help people get better at French. We want to build a brand and set of characters that become a part of people’s lives, turning everyone in the world into daily learners.
 
 > 打造百年品牌
-> 透過穩健成長與巧妙行銷，Duolingo 已經成為家喻戶曉的品牌。即使從未使用過我們 App 的人，也對我們的吉祥物 Duo——一隻既可愛又偶爾有點失控的貓頭鷹——感到熟悉。我們投入大量心力塑造 Duo 的故事，以及他與其他角色所存在的世界，而這也反映了我們的遠大目標。
 > 
+> 透過穩健成長與巧妙行銷，Duolingo 已經成為家喻戶曉的品牌。即使從未使用過我們 App 的人，也對我們的吉祥物 Duo——一隻既可愛又偶爾有點失控的貓頭鷹——感到熟悉。我們投入大量心力塑造 Duo 的故事，以及他與其他角色所存在的世界，而這也反映了我們的遠大目標。
 > 我們的不只是想幫助人們學好法語，我們想要打造一個深入人心的品牌與角色，讓學習成為每個人日常生活的一部分，讓世界上的每個人都成為終身學習者。
 
 Characters Count
+
 Our characters make learning fun. Built from simple geometric shapes, each has a distinct personality and story. Together, they reflect the diversity of our learners and bring a sense of humor and play to the app.
 But these characters—inspired more by brands like Nintendo than traditional learning companies—also serve an important strategic purpose. We see this IP as a crucial moat for our business, especially in the era of AI learning tools. That same emotional connection that makes learning enjoyable also makes our product stickier over time. Even if someone cloned our entire app, learners would still come back to Duolingo for the characters.
 
 > 角色的力量
-> 我們的角色讓學習變得有趣。這些角色由簡單的幾何形狀構成，但每個都有獨特的個性與故事。他們不僅展現了我們學習者的多樣性，也為 app 帶來了幽默與遊戲性。
 > 
+> 我們的角色讓學習變得有趣。這些角色由簡單的幾何形狀構成，但每個都有獨特的個性與故事。他們不僅展現了我們學習者的多樣性，也為 app 帶來了幽默與遊戲性。
 > 這些角色的設計靈感更接近任天堂這類品牌，而非傳統的教育公司，從策略角度來看，這些角色是我們業務重要的護城河，特別是在 AI 學習工具迅速崛起的時代。與角色們建立了情感，不僅讓學習更愉快，也提升了產品的黏著度。即便有人複製了我們的 app，學習者仍然會回到 Duolingo，因為這些角色是無可取代的。
 
 Investing in Marketing
+
 At Duolingo, we’ve grown by creating a product that people genuinely love—and love to talk about. But we’ve also figured out how to use other levers, like performance marketing, to complement that organic growth. Our paid ads exist to amplify our word-of-mouth momentum, not replace it, so we are conservative with our spend. This allows us to invest in standout campaigns and reactive social moments that set us apart.
 Our marketing team excels at creating high-impact content at a low cost. Thanks to their work, Duo has walked the red carpet at the Barbie premiere, hosted a (fake) dating reality show on the streaming service Peacock, and become an international social media star. These moments reflect the playful, irreverent energy of our brand and show how a thoughtful balance of organic growth and marketing can create meaningful impact.
 
 > 投資行銷
-> 在 Duolingo，我們的成長來自於打造一款人們真正喜愛，並樂於分享的產品。但除了這種自然增長，我們也善用行銷策略來進一步擴大影響力。我們的付費廣告只是為了放大口碑效應，而不是取代它，因此我們在廣告預算上相當謹慎，將資源集中在 亮眼的行銷活動與即時社群操作上，以突顯品牌特色。
 > 
+> 在 Duolingo，我們的成長來自於打造一款人們真正喜愛，並樂於分享的產品。但除了這種自然增長，我們也善用行銷策略來進一步擴大影響力。我們的付費廣告只是為了放大口碑效應，而不是取代它，因此我們在廣告預算上相當謹慎，將資源集中在 亮眼的行銷活動與即時社群操作上，以突顯品牌特色。
 > 我們的行銷團隊擅長 以低成本創造高影響力 的內容。正因如此，Duo 曾在《芭比》電影首映會紅毯 上現身、在 Peacock 串流平台上推出一檔（惡搞的）戀愛實境秀，甚至成為全球社群媒體的熱門話題。這些時刻展現了 Duolingo 俏皮又不按牌理出牌的品牌個性，也證明了口碑行銷與精準行銷的完美平衡能帶來強大影響力。
 
 The Path
+
 Originally, learners navigated Duolingo through the Tree, which consisted of skills (e.g., going to a restaurant). Each skill began with basic word meanings and progressed to harder content, but learners only needed to complete the first level to move on. While this flexibility let them advance quickly, it often led to frustration when harder concepts came along and exposed gaps in their foundational knowledge.
 In 2022, we took a leap: replacing the Tree with the Path. This new linear structure requires learners to complete every lesson in sequence, ensuring a consistent and strong foundation
 for everyone. The Path was a large undertaking across both engineering and design. We anticipated that learners might resist such a dramatic change to their routine. And even though the data didn’t immediately show improvements in core metrics like DAUs or monetization, the switch was the right decision.
@@ -325,8 +324,8 @@ It prioritized real mastery over speedrunning easy lessons to maintain streaks. 
 Sometimes taking the long view means making bold moves that might seem counterproductive in the moment. The Path was just that. It fundamentally changed how people learn with Duolingo and has been essential to our success.
 
 > 學習路徑
-> Duolingo 原本採用樹狀結構來安排學習進度，每個主題（例如「去餐廳」）都從基礎單字開始，逐步延伸到更進階的內容。不過，學習者只需要完成第一級，就能直接跳到下一個主題。雖然這種彈性讓人 進度推進快速，但當學習者遇到更難的概念時，卻容易發現基礎知識的漏洞，導致挫折感增加。
 > 
+> Duolingo 原本採用樹狀結構來安排學習進度，每個主題（例如「去餐廳」）都從基礎單字開始，逐步延伸到更進階的內容。不過，學習者只需要完成第一級，就能直接跳到下一個主題。雖然這種彈性讓人 進度推進快速，但當學習者遇到更難的概念時，卻容易發現基礎知識的漏洞，導致挫折感增加。
 > 2022 年，我們做出了一個大膽決定：以線性路徑取代樹狀結構。 這種線性學習的方式讓所有學習者必須按照固定順序完成每一課，確保每個人都能打下穩固的語言基礎。這項改變牽涉到工程與設計團隊的全面調整，我們也預期學習者可能會抗拒如此劇烈的變動。事實上，短期內我們並未看 每日活躍使用者數或營收等核心指標的立即提升，但我們依然認為這是正確的決定。
 > 
 > 新架構的核心理念是優先培養真正的語言掌握能力，而非單純為了累積連續學習天數而快速通關簡單的課程，此外也讓我們更清楚掌握學習者的進度，能更精準的調整學習體驗。
@@ -351,6 +350,7 @@ Still, we’re human, and we’re going to make mistakes. When that happens, we 
 > 然而，我們畢竟都是人，難免會犯錯。當錯誤發生時，我們不會到處追究責任，而會深入分析，找出問題所在。這就是我們不斷提升標準的方式——不在於追求完美，而是每天都進步一點。
 
 Culture of Excellence
+
 Our bar for quality was set at the top and at the beginning. Luis, Severin, and the early team share a nearly ridiculous attention to detail. (Luis is the rare CEO who still reports every bug he finds in the app.) But it’s no longer just about leadership or any individual Duo. As the company has grown, we’ve worked together to define clear standards for excellence and scale them across the organization.
 
 > 卓越文化
@@ -358,16 +358,17 @@ Our bar for quality was set at the top and at the beginning. Luis, Severin, and 
 > 我們對品質的要求一開始就設立在最高點。Luis、Severin 和早期的團隊對細節的要求近乎到了苛刻的程度。（Luis 是那種至今仍會回報他在 app 中發現的每一個 bug 的難得 CEO。）卓越不是僅僅是領導層或某一位 Duo 的功勞，隨著公司成長，我們共同定訂了明確的卓越標準，並推廣到整個組織。
 
 Taking Ownership
+
 One key to maintaining high standards is assigning ownership. That means putting a person or team on a task, providing a clear mandate and saying, “You are responsible.” We’ve seen it again and again: only things that are owned become excellent.
 As we grow, unclear ownership can become a challenge. One task might stretch across four functions and seven teams, and it’s not clear who owns what. There will always be some projects where defining ownership is tricky, or impossible. But the most important projects at the company should have an owner.
 
 > 承擔責任
 > 
 > 維持高標準的關鍵之一，就是明確指派負責人。也就是說，將任務分派給某個人或團隊，賦予明確的指令，告知「這項工作由你負責。」我們屢次發現，只有那些有明確負責人的事情，才能達到卓越。
-> 
 > 隨著組織的成長，責任的歸屬會是一大挑戰。一項任務可能需要橫跨四個部門和七個團隊，但究竟誰負責哪個部分卻不太明朗。總會有一些專案很難、甚至無法界定定責任。但公司中最重要的專案，一定要有明確的負責人。
 
 Hard on the Work, Easy on the People
+
 Our culture is famously warm and friendly. And that’s great! But a warm-and-fuzzy culture can make it hard to have tough conversations. We’ve always been clear when giving feedback on design and product, but we want to be more candid in other areas, too.
 The standard here is “hard on the work, easy on the people.” That means giving constructive, clear feedback that sharpens ideas without undermining relationships. (We stick to the “what,” not the “who.”) It also means being open to receiving feedback and not taking it personally. This candid, constructive approach allows us to hold each other to high standards while fostering trust and collaboration.
 
@@ -377,25 +378,25 @@ The standard here is “hard on the work, easy on the people.” That means givi
 > 這裡的標準是「對工作嚴格，對人寬容」，這意味著我們提供有建設性、清楚的回饋來激盪想法，而不會破壞彼此的關係。（我們關注的是「事情」本身，而非「個人」。）這同時也代表，我們願意開放心胸接受意見，不把意見視為針對個人的批評。真誠、具建設性的建議，讓我們能夠在彼此督促達到高標準的同時，也能培養出信任與協作的氛圍。
 
 Dogfooding
+
 Another key way we maintain excellence is by using the app daily. This ensures that we ourselves love the product and that bugs are spotted and resolved quickly. To make this process
 even more effective, we built Shake to Report, a simple tool that lets anyone in the company snapshot and report an issue instantly by shaking their device. Over the years, Shake to Report has become a vital part of our development process, making excellence in the app a shared responsibility.
 
 > 親自使用
+> 
 > 另一個維持卓越的關鍵方式，就是每天使用我們的 app。這不僅確保我們自己也愛上這個產品，同時也能迅速發現並修復漏洞。為了讓這個過程更加有效，我們開發了「搖晃以回報問題」——一個簡單的工具，只需搖晃裝置，便能讓公司內任何人立即截圖並回報問題。多年來，「搖晃以回報問題」已成為我們開發流程中不可或缺的一環，使追求 app 卓越品質變成了大家共同的責任。
 
 Setting the Bar
+
 So, where exactly is this excellence bar, and how do we make sure we’re hitting it? Let’s see what this looks like across a few areas of the company.
 
 The Bar for Product and Design
+
 In product and design, there are four elements that guide us:
-
-Useful: Learners need to get utility out of whatever we’ve built. Otherwise, we’ve made something that adds more complexity to the app and distracts learners from what they’re here to do.
-
-Intuitive: Learners should be learning, not figuring out how to use the app. Every feature must be easy to use for everyone—it doesn’t matter whether they’re a 75-year- old in India using an Android or a 16-year-old in New York City on an iPhone. If a feature or screen requires explanation or additional context, it’s not right.
-
-Delightful: Every new feature needs to have some amount of fun and delight. We might not need the most elaborate animations in the first iteration of a feature, but there should always be a hint of the magic that learners love.
-
-Polished: This is what makes a feature feel complete. Tight visual design, perfect copy, and seamless interactions are the baseline. Nothing should feel clunky or inconsistent. For instance, we shouldn’t have both a Back button and an X button that do the same thing.
+* Useful: Learners need to get utility out of whatever we’ve built. Otherwise, we’ve made something that adds more complexity to the app and distracts learners from what they’re here to do.
+* Intuitive: Learners should be learning, not figuring out how to use the app. Every feature must be easy to use for everyone—it doesn’t matter whether they’re a 75-year- old in India using an Android or a 16-year-old in New York City on an iPhone. If a feature or screen requires explanation or additional context, it’s not right.
+* Delightful: Every new feature needs to have some amount of fun and delight. We might not need the most elaborate animations in the first iteration of a feature, but there should always be a hint of the magic that learners love.
+* Polished: This is what makes a feature feel complete. Tight visual design, perfect copy, and seamless interactions are the baseline. Nothing should feel clunky or inconsistent. For instance, we shouldn’t have both a Back button and an X button that do the same thing.
 
 > 設立標竿
 > 這個卓越標準究竟在哪裡？我們又該如何確保自己能達到它？讓我們來看看公司各領域的具體表現。
@@ -412,27 +413,31 @@ Polished: This is what makes a feature feel complete. Tight visual design, perfe
 > 精緻度：這是讓一項功能顯得完整的關鍵。緊密的視覺設計、完美的文案與無縫的互動是基本要求，任何部分都不應該顯得突兀或不一致。例如，我們不應同時設置一個「返回」按鈕和一個功能相同的「X」按鈕。
 
 The Bar for Hiring
+
 Our people set the bar for everything else we do.
 So, we insist on bringing in exceptional talent— individuals who stand out not just in their skills but in their character. That might mean someone who was at the top of their class, or the first from their family to graduate from college—but also is genuinely kind. To maintain this standard, Luis and Severin still approve every new hire.
 We don’t lower this bar for anyone. For example, we once passed on a senior executive for a role we had been trying to fill for over a year because they weren’t kind. They aced their interviews and had a strong resume but were disrespectful to the driver who picked them up from the airport. That single moment told us what we needed to know. Excellence isn’t just what you do—it’s how you treat others.
 
 > 招募標準
+> 
 > 我們的團隊成員訂下工作中所有的標準。
 > 因此，我們堅持聘用那些傑出的人才——不僅在技能上脫穎而出，更在品格上出眾。這可能意味著某人是班上的第一名，或是他們家中第一位大學畢業生，但最重要的是，他們必須是真誠且友善的人。為了維持這個標準，Luis 和 Severin 至今仍親自審核每一位新進員工。
 > 我們絕不會為任何人降低這一標準。例如，我們曾因一位資深主管缺乏善意而放棄聘用，儘管這個職位我們已徵才超過一年。該主管在面試中表現出色，履歷也十分亮眼，但他對接機司機表現出不尊重的態度。僅憑這一刻，我們就得知他不符合我們的要求。卓越不僅在於你做了什麼，更在於你如何對待他人。
 
 V1s Not MVPs
+
 The idea of shipping unfinished features, or Minimum Viable Products (MVPs), is common across tech. But MVPs come with a specific set of expectations—and limitations.
 At Duolingo, we don’t do MVPs—we do V1s.
 The difference is important: MVPs often have a lower standard of quality and can be used as an excuse to ship subpar work. V1s, on the other hand, are polished. They may not have all the bells and whistles, but they meet our bar. Sometimes this approach takes a little longer, but we refuse to compromise our users’ experience by showing them half-baked ideas.
 
 > 推出第一版，而非最小可行產品
+> 
 > 在科技界，推出未完成的功能或最小可行產品（MVP）的概念相當普遍，但最小可行產品帶有一系列特定的預期與限制。
 > 在 Duolingo，我們不做最小可行產品，我們做第一版產品。
 > 這一差異至關重要：最小可行產品往往代表較低的品質標準，甚至可能成為推出次等產品的藉口；而第一版產品則經過精心打磨。雖然它們可能不具備所有花俏功能，但完全符合我們的標準。有時這種作法可能需要更長的時間，但我們絕不會為了趕時間而以半成品的概念妥協使用者體驗。
 
 （以下尚未翻譯）
-PRINCIPLE #3 SHIT IT!
+### PRINCIPLE #3 SHIT IT!
 For a good idea to become reality, we need to move with a sense of urgency. So Go, Go, Go!
 
 When Duolingo was starting out, we were all sitting in one room.
