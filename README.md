@@ -241,14 +241,13 @@ This redesign wasn’t just about aesthetics; it was an investment in the future
 > 
 > 這次改版不只是視覺上的調整，更是對未來的投資。雖然過程風險高、資源投入大，但它奠定了 Duolingo 充滿趣味性的品牌基調：生動的角色、俏皮的動畫，以及讓學習更像遊戲的體驗。從長遠來看，這套設計語言讓我們能夠隨著產品的發展不斷擴展，並保持一致的風格。
 
-（以下尚未翻譯）
 Setting the Proficiency Standard
 
 When asked how much English somebody knows, we want them to say, “My Duolingo Score is 70.” The Duolingo Score is an estimate of users’ proficiency in the language they’re learning, and the Duolingo English Test (DET) is a way to certify the
 score that can be used for high-stakes purposes, like university admissions. Together, they form our two-pronged approach to becoming the standard measure for language proficiency. Putting the score in the app gives us volume—hundreds of millions of people see it. Having a way to certify it with the DET gives us credibility—the score can get you admission to even the most prestigious universities in the world.
 Of course, becoming the proficiency standard is not easy, and could take decades—but that’s exactly why the Duolingo Score and the DET are great examples of taking the long view.
 
-> 樹立語言能力標準
+> 設立語言能力標準
 > 
 > 當問起某人的英文程度如何，我們希望回答會是：「我的 Duolingo 分數是 70。」Duolingo 分數是對使用者正在學習的語言做的能力評估，而 Duolingo 英文測驗（DET） 則提供了一種正式認證方式，適用於大學申請等重要場合。這兩者結合，構成了我們建立語言能力標準的雙軌策略。
 > 
@@ -256,19 +255,28 @@ Of course, becoming the proficiency standard is not easy, and could take decades
 > 
 > 當然，要成為語言能力的標準衡量指標並不容易，甚至可能花費數十年——Duolingo 分數與 DET 就是我們長遠考量的最佳例證。
 
-（以下尚未翻譯）
 Engineering the Future
 
-In engineering, taking the long view requires a slightly
-different approach. We know that we will still be improving
-our products years from now. So, we don’t build systems to
-last forever. Instead, we test ideas quickly and only invest significant engineering resources when something is successful. If something doesn’t work, we move on quickly, keeping the codebase clean and minimizing waste.
+In engineering, taking the long view requires a slightly different approach. We know that we will still be improving our products years from now. So, we don’t build systems to last forever. Instead, we test ideas quickly and only invest significant engineering resources when something is successful. If something doesn’t work, we move on quickly, keeping the codebase clean and minimizing waste.
 Video Call is a great example. We only invested in scaling and stabilizing it for long-term use once it showed traction with users. Another example relates to notifications. When we realized we’d be testing notification copy for years to come, we built a custom tool that allows Product Managers to test copy without engineering support.
 This balance—focusing on speed while reserving long-term investments for what truly works—has guided our success.
+
+> 打造未來的工程
+> 
+> 在工程領域，長遠考量有略微不同的方式。我們知道在未來數年我們仍會不斷改進產品。因此，我們不會一開始就設計一個永久不變的系統，而是先快速測試想法，只有在成功驗證後，才投入大量工程資源。如果某項嘗試行不通，我們會果斷捨棄，保持程式碼乾淨，避免不必要的浪費。
+> 
+> 視訊通話是一個很好的例子，我們只在它獲得使用者青睞後，才投入資源擴展與穩定系統。另一個例子是通知，當我們意識到未來幾年都會不斷測試通知文案時，便開發了一個專屬工具，讓產品經理可以自行測試文案，而不需要依賴工程團隊。
+> 
+> 這種在速度與長期投資之間取得平衡的方式，讓我們能夠快速創新，同時確保真正有效的方案能夠長久發展，也正是我們成功的關鍵。
 
 Becoming a Business
 For years, Duolingo didn’t make money. We were laser-focused on growing our user base and keeping learners engaged. Also, some of us worried that monetizing Duolingo could get in the way of our mission.
 That perspective began to shift after our Series D funding round in 2015. We started exploring revenue models—in-app purchases (IAPs), advertising, and paid subscriptions—with one key caveat: they could never compromise our mission. We weren’t going to put learning behind a paywall.
+
+> 邁向商業化
+> 多年來，Duolingo 並沒有營利。我們將全部心力投入在擴大使用者群體，並確保學習者能持續參與。此外，我們中的一些人擔心，商業化可能會影響我們的使命。
+> 
+> 這樣的想法在 2015 年 D 輪融資 後開始轉變。我們開始探索不同的營收模式——應用內購買（IAPs）、廣告與付費訂閱，但有一個關鍵原則：這些做法絕不能違背我們的使命。我們不會把學習鎖在付費牆後。
 
 Building a Monetization Engine
 
@@ -276,16 +284,39 @@ We started with in-app purchases, but there wasn’t much to “buy” except a 
 It became clear that introducing a freemium subscription product was the best opportunity to scale the business. The hard part was doing so while still offering an excellent product for those who couldn’t pay. We landed on a subscription package that eliminated ads and gave learners unlimited hearts. Both of these features remove friction from the app. Over the years, we’ve continued to tweak this model, but the core dynamic is the same: the paid product gives us the resources to pursue our mission at the greatest scale, and the free product is largely how that mission is achieved.
 Plenty of investors—and even some of us at Duolingo —wondered whether offering such a great free product would provide too little incentive for learners to subscribe. There will likely always be a tension between accessibility and revenue. But over time, our approach to monetization has shown that we can strike this balance, achieving long-term loyalty while building a large business.
 
+> 打造變現引擎
+> 我從應用程式內購著手，但除了連勝激凍（Streak Freeze）以外，幾乎沒什麼能買的。廣告收入也有限，我們發現每堂課結束後播放一則廣告不會影響使用者留存，但如果超過這個數量，大家就會選擇離開。
+> 
+> 於是我們意識到，推出 Freemium 訂閱方案是擴展業務的絕佳機會。困難的是，如何讓無法負擔費用的使用者依然獲得優質的學習體驗。我們設計出訂閱方案，提供無廣告體驗，並解除愛心限制，這兩個功能減少了學習上的摩擦，讓學習流程更加順暢。多年來，我們不斷微調這個模式，但核心理念始終不變：付費產品讓我們有資源推動使命，而免費產品則是我們實現使命的關鍵。
+> 
+> 許多投資人，甚至 Duolingo 團隊內部的一些人，曾經擔心如果免費內容做得太好，會導致使用者缺乏訂閱的動機。事實上，可及性與營收之間的拉扯可能永遠都會存在。但時間證明，我們的變現策略找到了平衡點，既建立了長期忠誠度，並發展出一個龐大的事業。
+
 A 100-Year Brand
 Through steady growth and clever marketing, we’ve made Duolingo a household name. Even people who’ve never used the app are familiar with our mascot, the delightful—if sometimes unhinged—Duo. We’ve invested a ton in Duo’s journey, along with the rest of our characters and the world they inhabit. This says a lot about our ambitions. We’re not just trying to help people get better at French. We want to build a brand and set of characters that become a part of people’s lives, turning everyone in the world into daily learners.
+
+> 打造百年品牌
+> 透過穩健成長與巧妙行銷，Duolingo 已經成為家喻戶曉的品牌。即使從未使用過我們 App 的人，也對我們的吉祥物 Duo——一隻既可愛又偶爾有點失控的貓頭鷹——感到熟悉。我們投入大量心力塑造 Duo 的故事，以及他與其他角色所存在的世界，而這也反映了我們的遠大目標。
+> 
+> 我們的不只是想幫助人們學好法語，我們想要打造一個深入人心的品牌與角色，讓學習成為每個人日常生活的一部分，讓世界上的每個人都成為終身學習者。
 
 Characters Count
 Our characters make learning fun. Built from simple geometric shapes, each has a distinct personality and story. Together, they reflect the diversity of our learners and bring a sense of humor and play to the app.
 But these characters—inspired more by brands like Nintendo than traditional learning companies—also serve an important strategic purpose. We see this IP as a crucial moat for our business, especially in the era of AI learning tools. That same emotional connection that makes learning enjoyable also makes our product stickier over time. Even if someone cloned our entire app, learners would still come back to Duolingo for the characters.
 
+> 角色的力量
+> 我們的角色讓學習變得有趣。這些角色由簡單的幾何形狀構成，但每個都有獨特的個性與故事。他們不僅展現了我們學習者的多樣性，也為 app 帶來了幽默與遊戲性。
+> 
+> 這些角色的設計靈感更接近任天堂這類品牌，而非傳統的教育公司，從策略角度來看，這些角色是我們業務重要的護城河，特別是在 AI 學習工具迅速崛起的時代。與角色們建立了情感，不僅讓學習更愉快，也提升了產品的黏著度。即便有人複製了我們的 app，學習者仍然會回到 Duolingo，因為這些角色是無可取代的。
+
 Investing in Marketing
 At Duolingo, we’ve grown by creating a product that people genuinely love—and love to talk about. But we’ve also figured out how to use other levers, like performance marketing, to complement that organic growth. Our paid ads exist to amplify our word-of-mouth momentum, not replace it, so we are conservative with our spend. This allows us to invest in standout campaigns and reactive social moments that set us apart.
 Our marketing team excels at creating high-impact content at a low cost. Thanks to their work, Duo has walked the red carpet at the Barbie premiere, hosted a (fake) dating reality show on the streaming service Peacock, and become an international social media star. These moments reflect the playful, irreverent energy of our brand and show how a thoughtful balance of organic growth and marketing can create meaningful impact.
+
+> 投資行銷
+> 在 Duolingo，我們的成長來自於打造一款人們真正喜愛，並樂於分享的產品。但除了這種自然增長，我們也善用行銷策略來進一步擴大影響力。我們的付費廣告只是為了放大口碑效應，而不是取代它，因此我們在廣告預算上相當謹慎，將資源集中在 亮眼的行銷活動與即時社群操作上，以突顯品牌特色。
+> 
+> 我們的行銷團隊擅長 以低成本創造高影響力 的內容。正因如此，Duo 曾在《芭比》電影首映會紅毯 上現身、在 Peacock 串流平台上推出一檔（惡搞的）戀愛實境秀，甚至成為全球社群媒體的熱門話題。這些時刻展現了 Duolingo 俏皮又不按牌理出牌的品牌個性，也證明了口碑行銷與精準行銷的完美平衡能帶來強大影響力。
+
 
 The Path
 Originally, learners navigated Duolingo through the Tree, which consisted of skills (e.g., going to a restaurant). Each skill began with basic word meanings and progressed to harder content, but learners only needed to complete the first level to move on. While this flexibility let them advance quickly, it often led to frustration when harder concepts came along and exposed gaps in their foundational knowledge.
@@ -293,3 +324,13 @@ In 2022, we took a leap: replacing the Tree with the Path. This new linear struc
 for everyone. The Path was a large undertaking across both engineering and design. We anticipated that learners might resist such a dramatic change to their routine. And even though the data didn’t immediately show improvements in core metrics like DAUs or monetization, the switch was the right decision.
 It prioritized real mastery over speedrunning easy lessons to maintain streaks. It also gave us clearer insights into learner progress and greater control over the learning experience.
 Sometimes taking the long view means making bold moves that might seem counterproductive in the moment. The Path was just that. It fundamentally changed how people learn with Duolingo and has been essential to our success.
+
+> 學習路徑
+> Duolingo 原本採用樹狀結構來安排學習進度，每個主題（例如「去餐廳」）都從基礎單字開始，逐步延伸到更進階的內容。不過，學習者只需要完成第一級，就能直接跳到下一個主題。雖然這種彈性讓人 進度推進快速，但當學習者遇到更難的概念時，卻容易發現基礎知識的漏洞，導致挫折感增加。
+> 
+> 2022 年，我們做出了一個大膽決定：以線性路徑取代樹狀結構。 這種線性學習的方式讓所有學習者必須按照固定順序完成每一課，確保每個人都能打下穩固的語言基礎。這項改變牽涉到工程與設計團隊的全面調整，我們也預期學習者可能會抗拒如此劇烈的變動。事實上，短期內我們並未看 每日活躍使用者數或營收等核心指標的立即提升，但我們依然認為這是正確的決定。
+> 
+> 新架構的核心理念是優先培養真正的語言掌握能力，而非單純為了累積連續學習天數而快速通關簡單的課程，此外也讓我們更清楚掌握學習者的進度，能更精準的調整學習體驗。
+> 
+> 有時候，長遠佈局意味著在當下做出看似不利的決策。學習路徑就是一個典型例子——它徹底改變了人們使用 Duolingo 學習的方式，也成為我們成功的重要關鍵之一。
+
