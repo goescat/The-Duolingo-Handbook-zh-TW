@@ -465,13 +465,22 @@ Shipping fast also lets us avoid lengthy debates and guesswork about what we sho
 > 快速上線還能避免我們陷入冗長的辯論和無謂的猜測，因為在真實世界中測試所得到的資訊，比任何內部討論都來得真實可靠。所以，我們必須迅速行動，啟動這些回饋循環，讓真實數據指引我們前進。
 
 Clock Speed
+
 “Clock speed” is a mindset that drives how we work. The concept comes from microprocessor technology, where clock speed measures how quickly a system can process instructions. We use the term to talk about minimizing the gaps between actions: the time between when a decision is made and when it’s implemented, or when feedback is given and changes are made.
 
 Experiments: Experiments are tests to see what works and what doesn’t. A/B tests are a specific type of experiment where we simultaneously run two or more options against one another.
 
 Increasing clock speed helps us reduce idle time and make sure that the most important projects actually get done. We should almost never have to wait a month to see the next iteration of a project. The more we can close these gaps, the faster we ship it, and the faster we can learn and improve. It’s not about rushing—it’s about never letting a break in the chain slow us down.
 
+> 時脈
+> 時脈是一種驅動我們工作方式的心態。這個概念來自微處理器技術，其中時脈用來衡量系統處理指令的速度。我們借用這個術語來描述縮短行動之間間隔的重要性：從決策做出到執行，或從給出回饋到實施改變，時間間隙越短越好。
+> 
+> 實驗：實驗就是測試什麼方法有效、什麼方法無效。A/B 測試讓我們可以同時比較兩個或更多選項的表現。
+> 
+> 提升時脈有助於減少閒置時間，確保最重要的專案能夠真正落實。我們不用要等上整整一個月，才能看到專案的下一個版本。縮短這些間隔，意味著我們能更快上線，從而更迅速地學習與改進。這並非在催促，而是不允許任何中斷拖慢我們的腳步。
+
 Ruthless Prioritization
+
 As much as we want to move fast and increase clock speed, we always need to make sure we’re working
 on the right thing. At Duolingo, prioritization is sometimes described as “ruthless:” we are decisive about what we focus on as a company, based on what will have the largest impact on our learners.
 Deciding what to prioritize starts with clearly defined goals. For every initiative, we ask: How does this contribute to our mission? What measurable outcomes will it drive? And if something doesn’t move the needle in a meaningful way, it’s cut—no matter how much effort has already gone into it. One high-impact win always outweighs a handful of small scattered efforts.
@@ -480,6 +489,15 @@ Deciding what to prioritize starts with clearly defined goals. For every initiat
 
 This mindset extends to our product. We cut features that don’t deliver value, remove unnecessary complexity, and stay laser- focused on our mission. Letting go of what’s not effective is often as powerful as creating something new.
 
+> 無情的優先排序
+> 儘管我們渴望快速行動、提高時脈，但始終必須確保我們始終在做正確的事。對 Duolingo 來說，優先排序有時被形容為「無情」：我們會根據對學習者影響最大的項目，果斷決定公司的聚焦重點。
+> 決定優先順序始於明確的目標。對每一項計畫，我們都會問：這如何推動我們的使命？它會帶來哪些可衡量的成果？如果某件事無法在實質上推動進步，不論已投入多少努力，都將被砍掉。一次高影響力的成功，遠勝於零星的多個小成就。
+
+> *PR：Product Review 這是我們對應用程式每項改動進行綠燈批准的會議。由產品團隊主導，但任何人都可以旁聽！
+
+> 這種心態同樣延伸到我們的產品上。我們會刪除那些無法帶來價值的功能，移除不必要的複雜性，並始終保持對使命的高度聚焦。放棄無效的部分，往往能產生與創造全新功能有一樣的效果。
+
+(以下尚未翻譯)
 *Shipping the Org
 As teams grow and become more specialized, there’s a risk that our product will mirror the organization’s structure rather than delivering a seamless experience for learners. This
 is called “shipping the org.” For example, the tabs across the app—like Leaderboards and Profile—are managed by different teams, each with distinct goals. Over time, this has led to inconsistencies in their design. To counter this, we always need to consider the holistic experience across the app.
@@ -503,7 +521,6 @@ during informal meetings, which sometimes got messy. Not all stakeholders were i
 Taking inspiration from engineering’s code review process, we introduced a formal structure for Product Review. Today, PR ensures that everyone is clear on what decisions were made, and that all relevant stakeholders are informed. The meeting also includes a rotating group of leaders from Product and Design who weigh in, ensuring diverse perspectives.
 The success of PR has set a precedent for other teams. Marketing, for instance, has adopted a Marketing Review, which brings the same clarity and alignment to their campaigns. These processes help us maintain our quality bar—and make faster and visible decisions across the company.
 
-（以下尚未翻譯）
 PRINCIPLE #4 SHOW DON'T TELL
 We use clear, concise communication that is grounded in data and real impact.
 
