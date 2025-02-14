@@ -177,6 +177,7 @@ Don’t Do Dumb S**t
 The temptation of short-term wins can be powerful. We had a simple mantra in the early days: “Don’t do dumb s**t.” Looking back, this was the first version of “Take the Long View.” We knew that to have any shot at meaningful success, we had to steer clear of gimmicks and tricks that might seem helpful in the short-term but hurt us down the road.
 
 > 別做蠢事
+> 
 > 短期成功的誘惑很強大。我們在創業初期有一句簡單的座右銘：「別做蠢事（Don’t do dumb s**t）。」回頭看，這其實就是「長遠考量」的最初版本。我們很清楚，如果想要真正的成功，就得避開那些看似短期內有用，但最終可能造成傷害的花招和小手段。
 
 Betting on Technology
@@ -497,112 +498,261 @@ This mindset extends to our product. We cut features that don’t deliver value,
 
 > 這種心態同樣延伸到我們的產品上。我們會刪除那些無法帶來價值的功能，移除不必要的複雜性，並始終保持對使命的高度聚焦。放棄無效的部分，往往能產生與創造全新功能有一樣的效果。
 
-(以下尚未翻譯)
 *Shipping the Org
-As teams grow and become more specialized, there’s a risk that our product will mirror the organization’s structure rather than delivering a seamless experience for learners. This
-is called “shipping the org.” For example, the tabs across the app—like Leaderboards and Profile—are managed by different teams, each with distinct goals. Over time, this has led to inconsistencies in their design. To counter this, we always need to consider the holistic experience across the app.
+As teams grow and become more specialized, there’s a risk that our product will mirror the organization’s structure rather than delivering a seamless experience for learners. This is called “shipping the org.” For example, the tabs across the app—like Leaderboards and Profile—are managed by different teams, each with distinct goals. Over time, this has led to inconsistencies in their design. To counter this, we always need to consider the holistic experience across the app.
+
+> *組織結構上線
+> 隨著團隊規模擴大、專業分工日益明細，存在一個風險：我們的產品可能會反映出公司的組織結構，而非提供學習者所需的無縫體驗。這種現象被稱為「組織結構上線」（Shipping the Org）。舉例來說，應用程式中的各個分頁——如排行榜和個人檔案——分別由不同團隊管理，各自有著獨立的目標。隨著時間推移，這就導致了設計上的不一致。為了避免這種情況，我們必須始終從整體角度考量應用程式的使用體驗。
 
 Culture of Experimentation
+
 “Ship It” isn’t just about speed; it’s about creating
 as many opportunities as possible to learn and improve. We like to play around, run a little wild—and sometimes fail. But each experiment brings us closer to seeing what works.
+
 99 Bad Ideas
+
 Some of our best features and campaigns have come from asking ridiculous, unlikely questions. We practice this at leadership offsites during a tradition we call “99 Bad Ideas,” where we brainstorm outrageous concepts—like Duo’s latest hijinks, or changing our stock ticker to LILY.
 But this spirit extends across the organization,
 where we make space for challenging assumptions and asking bold questions. What if you could talk with Duolingo characters? What would Duo do with five seconds at the Super Bowl? What if language certification tests could be taken at home? Over
 the years, these types of questions have helped us consistently uncover new opportunities to delight our learners and advance our mission.
 
-* Navigating Trade-offs
+> 實驗文化
+> 「上線吧！」不僅僅關乎速度，更在於創造盡可能多的機會來學習與進步。我們喜歡嘗試、敢於冒險——有時甚至會失敗。但每一次實驗都讓我們更接近發現有效的方法。
+>
+> 99 個爛點子
+> 我們一些最出色的功能和行銷活動，往往來自於那些看似荒謬、不可能的問題。我們在領導團隊的離線會議中，有一個傳統稱作「99 個爛點子」，在會議中我們會腦力激盪一些離譜的概念——像是 Duo 最新的惡作劇，或是將我們的股票代碼改成 LILY。
+> 這種精神不僅存在於高層，而是貫穿整個組織，讓大家都有空間挑戰傳統觀念，提出大膽的問題。假如你能和 Duolingo 的角色對話會怎樣？如果 Duo 在超級碗上只有五秒鐘，他會做什麼？假如語言認證考試可以在家進行，會有何改變？多年來，這些問題持續幫助我們發掘新機會，既讓學習者感到驚喜，也推進了我們的使命。
+
+*Navigating Trade-offs
+
 There’s a natural tension between “Raise the Bar” and “Ship It.” When they clash, our mission is a great guide. The question is: How will this decision improve education and make it more accessible? Often, it means letting go of perfection. Generative AI, for example, lets us create content at a speed and scale we never thought possible. Early versions aren’t perfect, but they deliver value to millions now—and the quality will improve over time.
 
+> *在取捨之間取得平衡
+> 「提升標準」與「上線吧！」之間天然存在著一種緊張關係。當二者發生衝突時，我們的使命便是最佳的指引。關鍵在於：這項決策如何能改善教育，並使其更易於普及？往往這意味著要放棄完美主義。例如，生成式 AI 讓我們能以前所未有的速度和規模創造內容。儘管早期版本不夠完美，但它們現已為數百萬用戶帶來價值，而品質也會隨著時間逐步提升。
+
 The Right Amount of Process
+
 As Duolingo grows, staying agile becomes more challenging. We need guardrails and processes to keep things from spiraling out of control, but we also want to avoid unnecessary red tape. The question is: How can we add the right processes without slowing ourselves down?
 Good processes should reduce workloads, improve quality, and lead to better decisions. One example of this is Product Review (PR). In the early days, Luis often made product decisions
 during informal meetings, which sometimes got messy. Not all stakeholders were included or informed; even worse, it wasn’t always clear if decisions were binding or if Luis was just musing. We needed a better approach.
 Taking inspiration from engineering’s code review process, we introduced a formal structure for Product Review. Today, PR ensures that everyone is clear on what decisions were made, and that all relevant stakeholders are informed. The meeting also includes a rotating group of leaders from Product and Design who weigh in, ensuring diverse perspectives.
 The success of PR has set a precedent for other teams. Marketing, for instance, has adopted a Marketing Review, which brings the same clarity and alignment to their campaigns. These processes help us maintain our quality bar—and make faster and visible decisions across the company.
 
-PRINCIPLE #4 SHOW DON'T TELL
+> 適度的流程
+> 
+> 隨著 Duolingo 的不斷成長，保持敏捷變得越來越具挑戰性。我們需要一些防護措施與流程來避免事情失控，但同時也希望避免不必要的官僚作風。問題在於：如何在不拖慢速度的前提下，引入合適的流程？好的流程應該能夠減輕工作負擔、提升品質，並促成更好的決策。舉例來說，就是產品檢討（PR）。在早期，Luis 常在非正式會議中做出產品決策，結果經常混亂：並非所有相關人士都能參與或獲知，更糟的是，有時候也不清楚這些決策是否具有約束力，或僅僅是 Luis 的隨口之言。我們需要一個更好的方式。受到工程領域程式碼審查流程的啟發，我們引入了正式的產品檢討架構。如今，PR 會議確保所有人都清楚所做決策，並讓所有相關利益者及時獲知。會議還會邀請來自產品與設計部門的輪值領導參與，以確保多元觀點。PR 的成功為其他團隊樹立了典範。例如，行銷團隊也採用了「行銷檢討會」，為他們的活動帶來同樣的清晰度與一致性。這些流程幫助我們維持品質標準，同時使公司內部能更迅速、明確地做出決策。
+
+### PRINCIPLE #4 SHOW DON'T TELL | 秀，不要光說
 We use clear, concise communication that is grounded in data and real impact.
+> 我們採用清晰、簡潔且以數據和實際影響為根基的溝通方式。
 
 “Show Don’t Tell” means we lead with the results of our work, not the story of its effort.
 This approach is different from how most of us were taught. In school or past jobs, we often learned to communicate to persuade—selling ourselves with pitches and stories. While those skills have their place, they’re not how we uncover the truth, solve problems, or build great things.
 
+>「秀，不要光說」意味著我們以工作的成果為主，而非僅僅講述付出的努力。
+> 這種方法與大多數人在學校或過去的工作中所學的截然不同。在那些場合，我們常被教導如何用說服性的簡報和故事來推銷自己。儘管這些技巧有其價值，但它們並非揭示真相、解決問題或創造偉大事物的方法。
+
 Numbers Are the Story
+
 Metrics, when available, should be at the center of all our work and communications. Decisions must be grounded in evidence, not abstract narratives.
 By focusing on actual results—like the effect of a new feature on daily bookings—we can quickly assess whether something belongs in the app. But this spirit extends well beyond the app. For example, we measure how our offices are being used (and not used), so we can make each new space better than the last.
+
+> 數字就是故事
+> 
+> 當有數據可用時，指標應該成為我們所有工作與溝通的核心。決策必須建立在證據之上，而非抽象的敘述。
+> 透過專注於實際成果——例如一項新功能對每日預約的影響——我們能迅速評估某項內容是否適合納入應用程式。不過，這種精神不僅限於應用程式本身。舉例來說，我們也會衡量辦公空間的使用情形（以及未被使用的部分），以便讓每一個新空間都比前一個更好。
+
 TL;DR
 One key way we Show Don’t Tell is through TL;DRs—executive summaries at the top of any important communication. We use them in many places, from feature performance analyses and meeting prereads to new policy announcements.
 Crafting strong TL;DRs boosts the chances that your work will be seen and remembered. They make complex information more digestible and, importantly, encourage clearer thinking. To write a TL;DR, you have to distill your message down to its most essential points.
 
+> TL;DR
+> 
+> 我們「秀，不要光說」的一個關鍵方式是透過 TL;DR（重點摘要）——在任何重要溝通的最上方提供執行摘要。無論是功能效能分析、會議預讀，還是新政策公告，我們都會使用這種方式。
+> 撰寫精鍊的 TL;DR 能大幅提高你的工作被看見和記住的機率。它們使複雜資訊更易於理解，更重要的是，能促使我們思考得更清晰。要寫出好的 TL;DR，你必須將訊息濃縮到最核心的要點。
+
 *The Tyranny of Metrics
 Fixating on the numbers can sometimes lead us astray. Metrics are valuable, but in isolation, they paint an incomplete picture. For example, learning outcomes—that is, what a student should know after completing a lesson—are notoriously tricky to measure. In cases like these, we have to trust our intuition and expertise.
 
-Say Less
-Prototypes, Not Pitch Decks
-Talking about ideas is rarely as effective as building them. Prototypes allow us to bring concepts to life, align on a shared vision, and move forward quickly. They’re especially important when dealing with complex challenges like integrating AI into an existing feature.
-Great Products Don’t Have to Explain Themselves
-Our app is designed to be intuitive. Instead of telling learners how to use Duolingo with pop-over messages and lengthy onboarding flows, we let design, animation, and simple prompts do the “showing.” When you open up Duolingo for the first (or hundredth) time, the learning experience should require no instructions. That way, you can actually focus on learning.
+> *數據的暴政
+> 
+> 過分專注於數字有時會讓我們偏離正軌。指標固然寶貴，但若單獨看數據，往往只能呈現片面情況。例如，學習成果——即學生在完成一課後應該掌握的知識——就是極難精準量化的項目。在這種情況下，我們必須依靠直覺和專業判斷。
 
+Say Less
+
+Prototypes, Not Pitch Decks
+
+Talking about ideas is rarely as effective as building them. Prototypes allow us to bring concepts to life, align on a shared vision, and move forward quickly. They’re especially important when dealing with complex challenges like integrating AI into an existing feature.
+
+> 少說多做
+> 
+> 原型，而非簡報
+> 
+> 僅僅談論點子，遠不如付諸實作來得有效。原型能讓我們將概念具體化、達成共識，並迅速推動計畫前進。這在處理如將 AI 整合進現有功能等複雜挑戰時，顯得尤其重要。
+
+
+Great Products Don’t Have to Explain Themselves
+
+Our app is designed to be intuitive. Instead of telling learners how to use Duolingo with pop-over messages and lengthy onboarding flows, we let design, animation, and simple prompts do the “showing.” When you open up Duolingo for the first (or hundredth) time, the learning experience should require no instructions. That way, you can actually focus on learning.
 And the actual learning is shaped by this principle, too. Research shows that the most effective learning comes through experience, not a long list of instructions. Rather than explaining grammar rules, for example, we demonstrate language patterns through interactive exercises and engaging visuals.
+
+> 優秀產品不需自我解釋
+> 
+> 我們的 app 以直覺易用為主。相較於以彈出訊息或冗長的新手引導告訴學習者如何使用 Duolingo，我們更讓設計、動畫和簡單提示來完成「展示」的工作。無論是第一次還是第百次打開 Duolingo，都應讓你無需額外指引，即可專心學習。
+> 事實上，研究顯示最有效的學習是通過實際體驗，而非長篇大論的說明。舉例來說，我們不僅僅解釋文法規則，而是透過互動練習和吸引人的視覺呈現來展示語言模式。
+
 Ideas Before Egos
+
 Great ideas don’t need a sales pitch—they need a chance
 to prove themselves. At Duolingo, we prioritize results over opinions. By empowering teams to explore bold concepts and letting metrics guide the way, we ensure that the best ideas rise to the top.
 
+> 以點子優先，捨棄自我
+> 
+> 優秀的點子不需要銷售簡報，而需要機會證明自己。在 Duolingo，我們重視成果勝於意見。透過賦予團隊探索大膽概念的權限，並以數據指引方向，我們確保最好的點子最終能夠脫穎而出。
+
 *Celebrating Innovators
+
 We tend to be team first. But there are select moments when individual work that goes above and beyond must be celebrated. Each year at Duoversary, we pick out a few standout contributors and give them the Duolingo Innovation Award.
 
+> *表揚創新者
+> 
+> 我們一向以團隊為先，但也有些時刻必須表彰那些超越常規、卓越表現的個人。每年的 Duoversary（Duolingo 週年慶）中，我們都會選出數位傑出貢獻者，頒發 Duolingo 創新獎。
+
 Disagree and Commit
+
 Disagreements are inevitable, but here, we handle them by taking action instead of getting stuck. When two parties disagree, both commit to moving forward with a decision and letting the results speak for themselves. For example, even when someone like Luis has doubts about an idea, they’ll often say, “Go ahead and test it—let’s see what happens.” (This is exactly what occurred with Leaderboards—now a key feature on the app.)
 This mindset extends beyond product. On our social media team, for example, junior team members are trusted to run with bold ideas and measure their impact. By creating space for experimentation, we ensure that outcomes—not opinions—lead the way.
+
+> 異議也要全力前進
+> 
+> 意見分歧在所難免，但我們選擇以行動化解僵局。當雙方意見不一時，彼此都會承諾按照某個決策前進，讓結果來證明一切。例如，即使像 Luis 這樣的高層對某個點子抱有疑慮，他也常會說：「就試試看吧——我們看看結果如何。」（這正是排行榜功能誕生的過程，而如今它已成為應用程式的一項關鍵功能。）
+> 這種思維模式不僅適用於產品開發。例如，在我們的社群媒體團隊中，即便是初級成員也被信任能夠提出大膽點子並衡量其影響。透過創造實驗的空間，我們確保最終是成果而非僅僅意見在引領方向。
+
 The Trust Battery
 Building trust is an essential part of this approach.
 At Duolingo, trust isn’t assumed—it’s earned. Through impactful work, everyone powers their Trust Battery. Whether you’re an intern or a new executive, you
 start by demonstrating your value with meaningful contributions. Each contribution charges the
 battery, creating a reserve of trust that strengthens collaboration, decision-making, and accountability over time.
 
-PRINCIPLE #5 MAKE IT FUN!
+> 信任電池
+> 
+> 建立信任是這一策略的關鍵一環。
+> 在 Duolingo，信任不是理所當然的，而是必須爭取的。通過具有影響力的工作，每個人都在為自己的「信任電池」充電。無論你是實習生還是新上任的主管，從展示具有意義的貢獻開始，每一次的付出都在充實這個信任儲備，進而隨著時間加強團隊合作、決策能力和問責制。
+
+### PRINCIPLE #5 MAKE IT FUN! | 讓它充滿樂趣！
+
 We bring a sense of humor, joy, and imagination to everything we do.
+
+> 我們在所做的一切中，都注入了幽默、喜悅與想像力。
+
 Learning doesn’t have to be boring, and neither does work.
+
 There’s a palpable sense of humor when you enter the world of Duolingo. This isn’t a culture of poker faces and formalities. It’s a world where gigantic, plush owls star in fake Broadway musicals—on ice. Where any wild idea is on the table, like an April Fools campaign to sell language-learning toilet paper. Where no one is safe from the joke (not even the CEO).
 
+> 學習不必無聊，工作亦然。
+> 
+> 進入 Duolingo 的世界，你會真切感受到那濃厚的幽默感。這裡沒有板著臉孔與拘謹形式，而是一個充滿奇思妙想的世界：巨型毛絨貓頭鷹在冰上主演偽造的百老匯音樂劇；任何瘋狂點子都能上桌，譬如愚人節推出的語言學習專用衛生紙活動；在這裡，沒有人能逃過玩笑的洗禮（連執行長也不例外）。
+
 A Product Built on Play
+
 There are lots of ways to teach a language. But none of them work if learners aren’t engaged.
 From the beginning, we made the decision to gamify the app. Over time, we’ve expanded this by introducing more and more engagement mechanics that keep learners coming back to further their progress. But these tactics aren’t the only thing that sets us apart.
 Duolingo feels like an entirely different universe from traditional education tools. Strange, unexpected things happen here. Lessons are formatted like talk shows and video games; sentences like “Your bear is drinking beer” verge on the absurd, and the character Lily sarcastically supports your progress with a slow clap. These moments of delight—characters, animations, absurd surprises—do more than entertain; they play a key role in keeping learners engaged.
+
+> 建立在玩樂上的產品
+> 
+> 教學語言的方法有很多，但若學習者無法投入其中，再多方法也無濟於事。
+> 從一開始，我們便決定將應用程式遊戲化。隨著時間的推移，我們陸續加入各種促進互動的機制，讓學習者持續回來邁向進步。然而，這些策略並非我們獨樹一幟的全部。
+> Duolingo 給人的感覺，彷彿是一個與傳統教育工具完全不同的宇宙。這裡總會發生奇異且意想不到的事情：課程形式有如脫口秀與電子遊戲；例如「你的熊正在喝啤酒」這類近乎荒誕的句子；還有角色 Lily 用帶點諷刺的慢速鼓掌，為你的進步打氣。這些充滿驚喜的瞬間——無論是角色、動畫還是那些荒謬的驚喜——不僅僅是為了娛樂，它們在持續吸引學習者上扮演著關鍵角色。
+
 You Can Be More Than One Thing
+
 Duolingo doesn’t fit neatly into one category. We’re not a game, but we’re not just an education product either. Along that blurry line lies the magic. The fact is, we’re competing with platforms like TikTok, Instagram, and online games for attention, so we have to make learning as fun as any of them. These platforms are designed to keep people endlessly scrolling and watching. What sets Duolingo apart is that our users come with a clear goal: learning. It’s not mindless entertainment; it’s a productive and purposeful use of your time. And the fun, the unexpected moments, and the quirky design are what make you stay.
 
+> 你可以不止一種身份
+> 
+> Duolingo 並不僅僅屬於某一類型。它既不是純粹的遊戲，也不僅僅是教育產品。正是在那模糊的邊界上，隱藏著魔法。事實上，我們正與 TikTok、Instagram 以及線上遊戲等平台爭奪用戶的注意力，因此必須讓學習變得同樣有趣。這些平台旨在讓人無止境地滑動與觀看，而使 Duolingo 與眾不同的是，我們的用戶帶著一個明確目標而來：學習。這不是無腦的娛樂，而是一種富有成效與目標性的時間運用。而那些有趣、意外的瞬間與獨特設計，正是讓你持續留下來的原因。
+
 Quirky Culture Open Doors
+
 At some companies, there is a room at the end of the hall with a giant mahogany table where all the real decisions are made. It’s not like that here. (In fact, Luis’s go-to conference room is a public fishbowl.) We’re open about the most important issues at the company—even ones that other places might try to keep quiet. Q&A with Luis is one space where this transparency is obvious. But more generally across Duolingo, we make a point of being available: even our most senior leaders are one DM away. Anyone at the company can attend Product Review. This openness and transparency set the conditions for taking risks and getting weird.
+
+> 怪誕文化，打開大門
+> 
+> 在某些公司，走到走廊盡頭會有一間擺滿巨型紅木桌的會議室，所有真正的決策都在那裡做出；但在這裡並非如此。（事實上，Luis 常用的會議室就像一個公開的魚缸。）我們對公司中最重要的議題都保持高度透明——即使是其他公司可能選擇隱藏的部分。與 Luis 的問答環節便是一個明顯例證。不僅如此，在 Duolingo，我們始終保持開放：即使是最高層的領導，也只是一則私訊的距離。公司內的任何人都可以參加產品檢討會。這樣的開放與透明，為我們敢於冒險、接受怪異挑戰提供了基礎。
+
 Joy by Design
+
 Our product is fun because of the people who build it. It’s obvious to anyone who walks into the office:
 on any given day, you might see a human-size Duo practicing calisthenics in the atrium, or stumble upon one of more than 100 clubs devoted to everything from crossword puzzles to oysters. Maybe you’re around in October and catch the annual Pittsburgh Puppy Parade. None of this is by accident. A great culture is hard to build, easy to lose, and essential for our success.
 
 This reaches a peak during our annual winter Getaway, when the entire company decamps to Cancun without agendas or panels or training sessions. The goal is simple: give Duos a low-pressure space to connect and unwind. We believe that when we genuinely enjoy our working environment and each other’s company, work becomes better, in all senses of the word.
 
+> 設計中的喜悅
+>
+> 我們的產品之所以有趣，全仰賴打造它的每一個人。只要走進辦公室，就能感受到這份活力：你可能會看到一個真人大小的 Duo 在大廳做體操，或是不經意間撞見超過 100 個從填字遊戲到生蠔俱樂部應有盡有的社團；或是在十月時，遇上年度匹茲堡小狗遊行。這一切絕非偶然。優秀的企業文化難以打造，卻也極易流失，而這正是我們成功的關鍵之一。
+> 這種文化在我們每年冬季的 Getaway 活動中更達到巔峰——全公司一同前往坎昆，不設議程、不安排小組討論或培訓課程。目標很簡單：提供一個無壓力的空間，讓 Duolingo 同仁能彼此連結、放鬆身心。我們深信，當大家真心享受工作環境與彼此的陪伴時，工作自然會變得更好。
+
 *Respect Boundaries
+
 The reason we can be goofy and experiment without judgment is because we have a baseline of care and respect within the company. With a diverse team of backgrounds, experiences, and perspectives, it’s important to be thoughtful—what’s funny to one person might not land for another. Everyone here is an adult, and we expect you to respect people’s boundaries.
 
+> *尊重界線
+> 
+> 我們之所以能夠搞怪並大膽試驗而不受評判，是因為公司內部始終有著一個基礎的關懷與尊重。由於團隊成員背景、經歷與觀點多元，我們必須謹慎體察——一個人覺得好笑的事，可能不見得適合另一個人。這裡的每個人都是成年人，我們期望你能夠尊重彼此的界線。
+
 Wholesome and Unhinged
+
 Over the years, we've experimented with different formats, tones, and design languages—eventually landing on our unique brand: wholesome and unhinged.
+
+> 真摯又瘋狂
+>
+> 多年來，我們嘗試了各種不同的形式、語氣與設計語言，最終確立了我們獨有的品牌風格：既充滿溫情，又帶點瘋狂。
+
 Committing to the Bit
+
 It took some time to find our voice, especially with our external marketing. Early on, we tried to appeal to the broadest possible audience, but we ended up with nothing distinctive to say. And in marketing, there’s nothing worse than being bland. So we changed tack, and our approach to marketing became weird, unexpected, and often funny.
 Humor doesn’t scale perfectly. It’s subjective, sometimes polarizing. So to unleash the full power of Duo humor, we had to accept that not everyone would get the joke. What truly matters is that people who do get it love it—and we do everything we can to nurture that passion.
-Duality of Duo
-Our mascot was initially designed to encourage regular practice. But once the internet got their hands on him, he grew into a more complicated—even menacing—character with his own lore. He’s still cute and cuddly. But he’s also willing to temporarily relocate your family to ensure you finish your lessons.
 
+> 堅持這一風格
+>
+> 找到我們的聲音花了一段時間，尤其是在對外行銷上。起初，我們試圖吸引最廣泛的受眾，但結果卻缺乏獨特性；在行銷上，平淡無奇是最致命的。於是，我們轉換策略，使得行銷方式變得怪異、出人意料且常帶幽默感。
+> 幽默並非總能精準量化——它主觀、甚至可能引起兩極反應。為了完全釋放 Duo 幽默的魅力，我們必須接受並非所有人都能 get 到笑點。真正重要的是，那些 get 到笑點的人會深深喜愛，而我們也會竭盡全力去培養這份熱情。
+
+Duality of Duo
+
+Our mascot was initially designed to encourage regular practice. But once the internet got their hands on him, he grew into a more complicated—even menacing—character with his own lore. He’s still cute and cuddly. But he’s also willing to temporarily relocate your family to ensure you finish your lessons.
 By leaning into the joke, Duo has become a bona fide viral sensation. He’s shown up everywhere from Saturday Night Live to popular video games and celebrity Instagrams. There are galaxies of crazy memes, from Buff Duo to Anime Duo and more.
+
+
+> Duo 的雙重性
+> 
+> 我們的吉祥物最初只是為了鼓勵大家定期練習而設計，但當網路接觸到他後，他逐漸演變出更複雜、甚至帶點威嚇意味的個性，並擁有了自己的傳說。他依然可愛討喜，但也能不擇手段地暫時「搬遷」你的家人，只為確保你能完成課程。
+> 正因為我們擁抱這份幽默，Duo 迅速成為真正的網路爆紅明星，出現於《週六夜現場》、熱門電子遊戲，甚至名人的 Instagram 上。從 Buff Duo 到 Anime Duo，各式各樣瘋狂的迷因層出不窮。
+
+
 April Fools
+
 April Fools is the perfect holiday for Duolingo: everything is
 fair game for a joke, and the further you push it, the better. We realized in the early years of the company that April Fools stunts were a great way to generate buzz and celebrate our quirky sense of humor. Our earliest experiments, like the Duolingo Pillow, have evolved into full-scale campaigns—like 2024’s Duolingo on Ice, which garnered 100 million social media impressions.
 
+> 愚人節
+> 愚人節對 Duolingo 來說再適合不過了：任何事物都可以成為玩笑的素材，越瘋越好。我們在公司初期便發現，愚人節的惡作劇是製造話題、展現獨特幽默感的絕佳方式。從最初的 Duolingo 枕頭，到後來規模宏大的活動——例如 2024 年的 Duolingo on Ice，就曾在社群媒體上創下 1 億次的曝光量。
+
 Five Seconds with Duo
+
 Super Bowl LVIII. 200 million viewers are watching around the world. All of a sudden, a bright green owl shoots another owl out of his butt, reminding you to "Do your Duolingo."
 It wasn’t your typical Super Bowl ad—but it couldn’t have been more Duolingo.
 Those five seconds, which aired on February 11, 2024, were the culmination of months of collaboration across a half dozen teams. We didn’t want to pay for a 30-second spot, so we gave ourselves a challenge: How could we make a splash in just five? We knew that every pixel mattered. There wasn’t time for flash or filler, so we embraced the quirky, unhinged, unexpected nature of Duo himself. When debates broke out over the “right amount of butt” to show, we knew we had a winning idea.
 The gamble paid off. For a fraction of the cost, our ad generated as much buzz as any other Super Bowl ad that year, and appeared on multiple “best of” lists. It was playful, unexpected, and didn’t take itself too seriously—exactly the formula that has driven our success as a brand.
 
+> 與 Duo 的五秒鐘
+>
+> 超級盃 LVIII，全世界約有兩億觀眾正聚焦其中。突然間，一隻亮綠色的貓頭鷹從他的屁股中射出另一隻貓頭鷹，提醒你「記得做 Duolingo」。
+> 這並非典型的超級盃廣告，但它無疑是最具 Duolingo 特色的呈現。這短短的五秒鐘（於 2024 年 2 月 11 日播出），是跨越半打團隊數月合作的結晶。我們不想支付傳統 30 秒廣告的高昂費用，於是自我挑戰：如何在僅僅五秒內創造轟動效應？我們深知每一個像素都至關重要。既無閒暇呈現浮誇之詞，也不容有冗餘拖沓，因此我們全盤擁抱 Duo 那古怪、不受拘束、出乎意料的特質。當關於該呈現多少「屁股」的討論爆發時，我們知道，這個點子必定贏家。最終，這場賭注獲得回報。以極低成本，我們的廣告創造了與當年其他超級盃廣告相媲美的話題效應，並多次入選各大「最佳廣告」榜單。它玩味十足、出乎意料且不把自己太當回事——正是推動我們品牌成功的秘訣。
+
 THE GREEN MACHINE
+
 Our principles provide the theory. The Green Machine puts that theory into practice.
 
 Our Process
