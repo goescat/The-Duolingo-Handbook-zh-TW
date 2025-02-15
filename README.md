@@ -1,16 +1,20 @@
 # The-Duolingo-Handbook-zh-TW
 The Duolingo Handbook 正體中文翻譯
 
-這是個人興趣所做的翻譯，版權為 Duolingo 所有。
+這是個人興趣所做的翻譯，未盡之處還請見諒。
+版權為 Duolingo 所有。
 
 ## The Duolingo Handbook
+How Duolingo works: 14 years of big learnings in one little handbook.
+
+Duolingo 手冊
+
+多鄰國怎麼做到的：14年的學習濃縮於一本小手冊
 
 <img src="https://github.com/goescat/The-Duolingo-Handbook-zh-TW/blob/main/image/The_Duolingo_Handbook-01.png" width="400">
 
 官方連結：
 https://blog.duolingo.com/handbook/
-
-How Duolingo works: 14 years of big learnings in one little handbook.
 
 ## 內容
 
